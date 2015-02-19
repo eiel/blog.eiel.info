@@ -1,0 +1,32 @@
+---
+
+title: "オープンソースカンファレンス2014広島 - LT駆動開発 ベストセッションズ 凪のライトニングトーク"
+date: 2014-09-20T12:44:00+09:00
+comments: true
+categories: ["OSC","LT駆動"]
+---
+
+[オープンソースカンファレンス2014広島](http://www.ospn.jp/osc2014-hiroshima/)の[LT駆動開発 ベストセッションズ – 凪のライトニングトーク](https://www.ospn.jp/osc2014-hiroshima/modules/eguide/event.php?eid=7)の中でライトニングトークをしてきました。
+
+今回は[LT駆動開発](http://ltdd.doorkeeper.jp/)の説明を担当させていただきました。
+
+<script async class="speakerdeck-embed" data-id="f83d11b022a50132ff8e7a94a7c4ee2d" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+
+LT駆動開発の説明もしましたが、LT駆動開発の中でよくあることを紹介しました。
+
+以下補足
+
+* LT駆動の説明をする人を毎回変えるようにしているのは、参加主旨をみんなに考えて欲しいからです。
+* [我馬](http://www.gaba-2000.com/)は広島のラーメン屋です。博多ラーメンを提供しています。
+
+その他のLTについても随時公開される予定です。
+
+* [詳しくはこちら](https://github.com/LTDD/Sessions/wiki/LT%E9%A7%86%E5%8B%95%E9%96%8B%E7%99%BA-%E3%83%99%E3%82%B9%E3%83%88%E3%82%BB%E3%83%83%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%BA-%E2%80%93-%E5%87%AA%E3%81%AE%E3%83%A9%E3%82%A4%E3%83%88%E3%83%8B%E3%83%B3%E3%82%B0%E3%83%88%E3%83%BC%E3%82%AF)
+
+[また、来月のLT駆動開発の申し込みはこちらになります。](http://ltdd.doorkeeper.jp/events/15063)
+
+テーマは「おれたちのLT駆動はまだはじまったばかりだ」ということでLT駆動2期のスタートです。
+
+### 関連
+
+* [すごいHirohsimaの本について、OSC2014とWTM71で紹介した](http://localhost:4000/blog/2014/09/21/great-h-book-osc-2014-and-wtm71/)

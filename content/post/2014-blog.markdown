@@ -1,0 +1,154 @@
+---
+
+title: "2014年を振り返る - ブログ編"
+date: 2014-12-31T17:47:00+09:00
+comments: true
+categories: []
+---
+
+2014年をふりかえりしようと思っていたら31日なっていた。
+
+今年は去年に引続きアウトプットは意識してやっているので分量が多い。
+というわけで、分割しながらいきます。
+
+というわけで本ブログをふりかえる。
+
+* 記事数 84
+
+2013のほうが多い気がする。
+
+* 年間PV 12万
+
+去年は8万PVで大きくは伸びてない。増加率としては落ちている。
+
+## PVランキング
+
+せっかくなのでPVランキングをつくっておこう。
+
+* 10位 [Cucumber のフィーチャの文法 - Gherkin - そんなこと覚えてない](http://blog.eiel.info/blog/2013/02/12/gherkin/)
+
+2013年の記事。個人的にはがんばった記憶がある。
+これをかいてCucumberはだいぶ怖くなくなった。
+
+* 9位 [コミットメッセージの先頭に絵文字いれるのが流行ってんだろうか](http://blog.eiel.info/blog/2014/07/07/emoji-for-git-commit-message/)
+
+結局覚えられないのであんまりつかってない。
+
+* 8位 [GitHub に課金した](http://blog.eiel.info/blog/2013/10/03/billing-github/)
+
+課金するだけの話なのに…英語だと怖い人がたくさんいるのかな。
+
+* 7位 [今後のiOSアプリケーションのために Auto Layout を学んだ - 内容編](http://blog.eiel.info/blog/2013/01/13/ios-autolayout-2/)
+
+2013年の記事。AutoLayoutはまだまだ勉強不足です。
+
+* 6位 [Git がわからなくても Github を利用しよう](http://blog.eiel.info/blog/2013/02/06/how-to-use-github/)
+
+2013年の1位の記事。まだまだ見てくれる人がいる模様。
+
+* 5位 [Rails の自動読み込みの話](http://blog.eiel.info/blog/2013/09/07/autoload-rails/)
+
+2013年の記事。結構リンクしてもらったりしているので伸びている。
+
+* 4位 [GnuPG で遊ぶ - 暗号化してみる](http://blog.eiel.info/blog/2013/07/31/gpg/)
+
+GnuPGはもっとみんな使えばいいのにって思う。これも2013年の記事。
+
+* 3位 [Ruby on Rails で NOT IN な SQL をかく。](http://blog.eiel.info/blog/2013/07/20/not-in-on-rails/)
+
+最近Rails4に以降した人が多いのかそこそこ伸びている。これも2013年だと…。
+
+* 2位 [Github の楽しみ方](http://blog.eiel.info/blog/2013/05/13/how-to-enjoy-github/)
+
+2013年の2位記事。まだまだいける。
+
+* 1位 [Github Pages について整理しておきます](http://blog.eiel.info/blog/2013/02/17/github-pages/)
+
+1位も2013年かよ!ってことで、実用性があるものはじわじわ伸びるみたいです。
+
+というわけで2014年の記事はとても影が薄い展開となりました。
+検索からの流入が多いのでどうしても過去の記事が強い。
+
+## はてぶランキング
+
+こっちは2014年のものに限る。
+
+* 9位 11はてぶ [Devise で登録時にConfirmation Token が不正な値というエラー](http://blog.eiel.info/blog/2014/02/20/confirmation-token-error-indevise/)
+
+gemのアップデートを更新した時の対策をかいただけのやつ。
+
+* 9位 11はてぶ [LT駆動開発で hubot をつかったオフィスに誰がいるかわかるコマンドを作成した話をした](http://blog.eiel.info/blog/2014/09/06/ltdd-07/)
+
+とても便利な「おるか」コマンド。チャットが促進されます。
+
+* 8位 14はてぶ [手軽にHaskell できる hawk が楽しい](http://blog.eiel.info/blog/2014/02/14/hawk/)
+
+haskellネタは情報が少ないので当たりやすいのか。
+
+* 7位 15はてぶ [Docker Hub を少し試してきた](http://blog.eiel.info/blog/2014/07/10/abc-docker-hub/)
+
+GitHubからDockerHubの流れを確認したくて試したやつ。
+
+* 5位 25はてぶ [LT駆動開発で ruboty の使い方っぽいことを適当に紹介した](http://blog.eiel.info/blog/2014/07/07/great-bot-and-ruboty-ltdd/)
+
+hubotクローンなruboty。あんまり記事をみなかったけど最近もりあがってる気がする。
+
+* 5位 25はてぶ [ActionView を単体で使ってみる](http://blog.eiel.info/blog/2014/07/18/action-view/)
+
+ソースコードリーディングの成果物。
+知っていると役に立つこともあるかもしれない。
+
+* 4位 28はてぶ [はてぶの暮らしで新着にのると闇が見れますね](http://blog.eiel.info/blog/2014/08/01/hatebu-kurashi/)
+
+なんというか怖い世界が見えました。
+
+* 3位 60はてぶ [GitHub戦闘力を提案してみた - 座駆動LT大会](http://blog.eiel.info/blog/2014/09/13/github-scouter/)
+
+一発ネタはやはり伸びない。
+
+* 2位 81はてぶ [内包表記について、すごい合同勉強会で話した](http://blog.eiel.info/blog/2014/11/02/internal-definitia-great-study/)
+
+大きめの舞台にもってきたネタが伸びてよかった。
+
+* 1位 98はてぶ [コミットメッセージの先頭に絵文字いれるのが流行ってんだろうか - そんなこと覚えてない](http://blog.eiel.info/blog/2014/07/07/emoji-for-git-commit-message/)
+
+AdventCalendarか何かで同じこと書いてるのを最近みかけたのでつらい。
+
+### せっかくなのでピックアップ
+
+個人的にふりかえってピックアップする。
+
+* [Rubyのオプション変数というグローバル変数](http://blog.eiel.info/blog/2014/02/03/global-variable-with-option/)
+
+タイトルみてもまったく記憶になくてみなおした甲斐があった。
+
+* [Route 53 の特定の Hosted Zone を IAM ユーザで設定できるようにしてみた](http://blog.eiel.info/blog/2014/02/14/route53-iam/)
+
+ちょっと前に権限を制約したもので[roadworker](https://github.com/winebarrel/roadworker)を使おうとしたら使えなくてなんとかしたいと思っていたりする。
+
+* [CucumberとTurnipとSpinachと。](http://blog.eiel.info/blog/2014/05/01/cucumber-turnip-spinach/)
+
+SpinachをしってからCucumberでいいかなとおもっていたりする。Turnipでやりたいならリクエストスペックかこうかなぁと。
+
+* [Git で特定のコミットがどのタグに含まれているか確認する](http://blog.eiel.info/blog/2014/05/28/cotains-commit-in-tags/)
+
+よくわすれる。マージ業するなら便利。
+
+* [黒背景に青文字はやめろという話を合同勉強会in大都会で話をした](http://blog.eiel.info/blog/2014/12/14/gbdaitokai2014-winter-color/)
+
+伸びなすぎたので宣伝。
+
+* [Oiitaと技術系ブログを書き分けることにした理由](http://blog.eiel.info/blog/2014/12/24/reason-for-written-qiita/)
+
+割りとどうでもいいけど伸びなかったので宣伝。
+
+# まとめ
+
+ふりかえってみた結果。スライドが増えた分内容が減った印象があります。
+来年はもっと減るんじゃないかなと思います。
+
+# 関連
+
+* [2014年を振り返る - GitHub編 - そんなこと覚えてない](http://blog.eiel.info/blog/2014/12/31/2014-github/)
+* [2014年を振り返る - スライド編 - そんなこと覚えてない](http://blog.eiel.info/blog/2014/12/31/2014-slides/)
+ 

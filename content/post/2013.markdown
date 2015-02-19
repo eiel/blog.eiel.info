@@ -1,0 +1,117 @@
+---
+
+title: "2013年のふりかえりをする"
+date: 2013-12-25T19:42:00+09:00
+comments: true
+categories:
+---
+
+2013年も残り1週間なのでふりかえっておいて来年の目標を考える準備をする。
+
+### 1月
+
+* [WTM-summary](https://github.com/eiel/WTM-summary)を作るustをした気がする。そういえば放置されている。はよ完成させたい。
+* [オンラインで Auto Layout の勉強会をした](http://blog.eiel.info/blog/2013/01/13/ios-autolayout/)
+* [関数プログラミング入門 Haskellで学ぶ原理と技法の読書メモ](http://blog.eiel.info/blog/categories/guan-shu-puroguraminguru-men/)を残したりしてみた。一章で終わってるので続きをしたい。
+* [GitHub スパム判定される事故がおきた](http://blog.eiel.info/blog/2013/01/21/github-spam/)
+
+### 2月
+
+* [広島Ruby勉強会 #027](http://hiroshimarb.github.io/blog/2013/01/18/hiroshimarb-27/) で Fiber について簡単に紹介した。
+* [Git がわからなくても Github を使おう](http://blog.eiel.info/blog/2013/02/06/how-to-use-github/) という記事を書いたらアクセスがいっぱいきた。
+* [Cucumber のフィーチャの文法 - Gherkin](http://blog.eiel.info/blog/2013/02/12/gherkin/) とか書いてじわじわアクセスがある。
+* [Github Pages について整理しておきます](http://blog.eiel.info/blog/2013/02/17/github-pages/) もそこそこアクセスがきてる
+
+### 3月
+
+* [広島Ruby勉強会 #030](http://hiroshimarb.github.com/blog/2013/02/08/hiroshimarb-30/) で [Liquid について喋った](http://blog.eiel.info/blog/2013/03/02/abc-liquid/)。
+
+
+### 4月
+
+* 広島Ruby勉強会 #031で、[Hakyllの紹介をした](http://www.slideshare.net/TomohikoHimura/hakyll-18303056)
+* [gherkinに出した pull request が取り込まれた](https://github.com/cucumber/gherkin/pull/229)
+* [railsdoc.eiel.info](https://github.com/eiel/railsdoc.eiel.info)の毎日更新をはじめた。最近ちょっとサボり気味。
+* [Web Touch Meeting #56](http://www.webtouchmeeting.com/meeting/2013/04/56web-touch-meeting.html)で軽量マークアップ言語について喋った
+* [Ruby on Rails にいくつか Pull Request](https://github.com/rails/rails/pull/10339) 出したりしてみた。
+* [広島マックユーザーグループ|4月28日(日曜日)の勉強会](http://atnd.org/events/36583) で「黒い画面入門 と その応用例」という話をした。
+* [「数学文章作法 基礎編」に感動していた](http://blog.eiel.info/blog/2013/04/16/writing-math-text-basic/)。まだ持ち歩いている。
+
+
+### 5月
+
+* [Githubの楽しみ方](http://blog.eiel.info/blog/2013/05/13/how-to-enjoy-github/)という記事を書いたら390はてぶついた。
+* [OA@ITで遊んでたみたい](http://qa.atmarkit.co.jp/users/eiel/activities)
+* [ForKanji](http://fourkanji.herokuapp.com/game)をつくってた形跡があるけどこれも完成してない気がする
+* [すごい広島](http://great-h.github.io/)はじめた。
+
+### 6月
+
+* [広島Git勉強会 201306](http://hiroshimarb.github.io/blog/2013/04/06/hiroshimarb-git-201306/)で「[やりなおせるGit入門](http://www.slideshare.net/TomohikoHimura/git-22237343)」というセッションをして、スライドを公開したら440はてぶとかいった
+
+### 7月
+
+* 広島Ruby勉強会 #032 で [jenkins を cron 的に使ってみた話をした。](http://www.slideshare.net/TomohikoHimura/jenkins-23971945)
+
+### 8月
+
+* [広島Ruby勉強会 #033](http://hiroshimarb.github.io/blog/2013/08/03/hiroshimarb-33/) で [Rails テンプレートの話をした](http://www.slideshare.net/TomohikoHimura/rails-template)
+* [flaun](http://blog.eiel.info/blog/2013/08/10/flaun/) という gem をつくった
+* [TDD Boot Camp 岡山 2.0](http://eielh-life.tumblr.com/post/59874413017/tdd-boot-camp-2-0)のスタッフっぽいことした
+
+### 9月
+
+* [広島Ruby勉強会 #034](http://hiroshimarb.github.io/blog/2013/09/07/hiroshimarb-34/) で [Rails の自動読み込みを支える技術](http://blog.eiel.info/blog/2013/09/07/autoload-rails/)というセッションをした。
+* 上記のセッションを記事にした[Rails の自動読み込みの話](http://blog.eiel.info/blog/2013/09/07/autoload-rails/) も70はてぶぐらいついた
+
+### 10月
+
+* [第二回　中国地方DB勉強会](http://local.aguuu.com/events/21550) にて「[O/R Mapping の話をするよ。ActiveRecord の話をしたかった](https://www.slideshare.net/TomohikoHimura/or-mapping-activerecord)」というセッションをした
+* [OSC 2013 HIROSHIMA](http://www.ospn.jp/osc2013-hiroshima/) で、Hirosihma.rb の枠でLTをした。LT大会でもLTをした。
+
+### 11月
+
+* [広島 Ruby 勉強会 #035](http://hiroshimarb.github.io/blog/2013/11/02/hiroshimarb-35/) 内で「[つながりをゆるふわにしよう ActiveSupport::Notifications](http://www.slideshare.net/TomohikoHimura/active-supprt-notifications)」というセッションをした。
+* [CSS Nite in HIROSHIMA Vol.7](http://cssnite.webtouchmeeting.com/vol7/)の副実行委員長を務めたらしい。大した仕事はしてないけど、実行委員長の仕事を軽減したはず。
+
+### 12月
+
+* 近畿大学 工学部 情報学科 IT交流勉強会 で 「[ライトニングトークをしよう、そしてライトニングトークをすることによるその効果。](https://speakerdeck.com/eiel/raitoningutokuwosiyou-sositeraitoningutokuwosurukotoniyorusofalsexiao-guo)」というセッションをした。
+* [合同勉強会 in 大都会岡山 -2013 Winter-](http://gbdaitokai.doorkeeper.jp/events/5725) で「[流れるようにプログラミングしたい](http://blog.eiel.info/blog/2013/12/15/gbdaitokai-2013/)」というセッションをした。
+
+### いった勉強会とか
+
+ブログにメモってるものだけ数えると70回ぐらい参加した模様。
+
+### よく再生した曲
+
+高橋優の「花のように」だった。
+他には「夜明けを待っている」とか Ryu☆の 「kira kira」「Plan 8」など。
+
+### よんだ本とか
+
+[ブクログ登録数](http://booklog.jp/users/eiel)が50冊ぐらい。漫画も含んでるので大して読めてない感。
+「型システム入門」と「圏論の基礎」がなかなか読み進んでないのでなんとかしたい。
+
+### 音ゲーとか
+
+弐寺がSPが5段からSP8段へ。DPが7段から伸びてない。
+ポップンが42がちらちらクリアできる。
+jubeat がレベル10がBランク残り3曲までになった。
+
+ゲームはほどほどにしましょう。
+
+
+### 見た映画とか
+
+17個ぐらいはどうやら見ている模様。
+「かぐや姫の物語」が圧倒的だったと思う。
+
+### まとめ
+
+かなりの数のセッションをしている。月に2つはスライドをつくるのが当たり前な一年になってました。ブログ記事もかなり書いてました。
+ツイートは増えすぎないように注意したい。
+
+
+なにかしらにログを残しておくといろいろふりかえることができて良いと思った。
+サボり気味なのも増えてるのでがんばっていきたいところです。

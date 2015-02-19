@@ -1,0 +1,49 @@
+---
+
+title: "岡山Git勉強会 - 20130223 - Git 仕組み入門 という話をしてきた"
+date: 2013-02-23T21:24:00+09:00
+comments: true
+categories: ["git","勉強会","岡山Git勉強会"]
+---
+
+[岡山Git勉強会 20130223](http://local.aguuu.com/events/11120) で `Git 仕組み 入門`という話をしてきました。
+
+* [トゥギャッター](http://togetter.com/li/460974)
+* [セキココ](http://sekico.co/zaseki/95)
+
+もっと簡単な内容にできるかな？っと思ってやってみたのですが、やっぱり難しめだったみたいです。
+スライドだけでもある程度理解できるように細かめにつくってみました。
+やりすぎた感が漂います。
+
+
+<iframe src="http://www.slideshare.net/slideshow/embed_code/16716062" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px" allowfullscreen webkitallowfullscreen mozallowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="http://www.slideshare.net/TomohikoHimura/git-16716062" title="Git 仕組み 入門" target="_blank">Git 仕組み 入門</a> </strong> from <strong><a href="http://www.slideshare.net/TomohikoHimura" target="_blank">Tomohiko Himura</a></strong> </div>
+
+[スライドをつくる際のメモなどもupしています。](https://github.com/eiel/okagit-object)
+
+この辺りの話を聞いたことがない方は手を動かしてみてはどうでしょうか。
+
+### 話し忘れたこと
+
+* 日頃使うツールはしっかり理解したほうがいいと思う
+* tree  オブジェクトに登場した mode は 666 とかよくパーミッションがどうこう言われるアレです。
+* このあたりの仕組みが入門書に出てくるあたりも Git の魅力なだと思います。
+
+
+### 内容にあまり関係ないこと
+
+* keynote の機能をいろいろためした
+
+もっとはやく勉強しておけばよかった。マスタースライドでスライドのテンプレートをつくっていじると、スライドのデザインをまとめていじれる。
+
+* 背景色をうっすら変えてみた。
+
+お洒落感が出るのか試してみたかった。結果はよくわからない。
+ディスプレイでみるとわかる違いはプロジェクターでわかるかどうか怪しい。
+
+* keynote で アウトラインからスライドを作ると効率よさげ
+
+前述のマスタースライドの機能がわかっていれば、わりといけます。
+
+### まとめ
+
+話をするのは苦手で、相変わらず、反省点の多いセッションですが、話を聞いていただいてありがとうございました。良い経験になりました。

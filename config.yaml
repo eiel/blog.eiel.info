@@ -1,0 +1,25 @@
+BaseUrl: "http://blog.eiel.info"
+LanguageCode: "ja-jp"
+Title: "そんなこと覚えてない"
+
+Params:
+  Author: "Tomohiko Himura"
+  Birth: "Sun, Feb 26, 1989"
+  DateForm: "2006 1月2日 15:04"
+  GoogleAnalyticsUserID: "UA-34566858-1"
+  GravatarHash: "eiel.hal@gmail.com"
+  Facebook: "eielh"
+  Twitter: "eileh"
+  Github: "eiel"
+  ShowRelatedPost: True
+  Disqus: "blogeiel"
+  SyntaxHighlightTheme: "solarized_light.min.css"
+  ShowTagCloud: True
+
+Indexes:
+  tag: "tags"
+
+permalinks:
+  post: /blog/:year/:month/:day/:filename/
+
+MetadataFormat: "yaml"
