@@ -3,7 +3,7 @@
 title: "database.ymlが.gitignoreに入っている環境でのcapistranoを使ったデプロイ"
 date: 2012-08-31T11:15:00+09:00
 comments: true
-categories: [rails,capistrano]
+tags: [rails,capistrano]
 ---
 
 [2012-09-20日追記] 以下の記事の内容ですが、gemが用意されてました。

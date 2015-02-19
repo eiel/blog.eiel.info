@@ -3,7 +3,7 @@
 title: "@souda1025 に PythonでFizzBuzzとかしてみた に対抗しろって煽られたので。"
 date: 2013-01-26T14:33:00+09:00
 comments: true
-categories: ["python","ruby","haskell","FizzBuzz"]
+tags: ["python","ruby","haskell","FizzBuzz"]
 ---
 
 [@soudai1025](http://twitter.com/soudai1025) が書いた[ブログ記事にPythonでFizzBuzzとかしてみた](http://soudai1025.blogspot.jp/2013/01/pythonfizzbuzz.html?spref=fb)というエントリーがあるのですが、Facebookでこういうコメントをみた。

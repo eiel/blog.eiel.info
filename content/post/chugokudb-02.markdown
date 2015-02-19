@@ -3,7 +3,7 @@
 title: "第２回 中国地方DB勉強会に参加したり、喋ったり。"
 date: 2013-10-05T18:00:00+09:00
 comments: true
-categories: ["database","ActiveRecord"]
+tags: ["database","ActiveRecord"]
 ---
 
 

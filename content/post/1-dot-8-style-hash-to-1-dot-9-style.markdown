@@ -3,7 +3,7 @@
 title: "Rubyの 1.8 スタイルの Hash を 1.9 に書き換える"
 date: 2012-12-30T14:30:00+09:00
 comments: true
-categories: ["ruby"]
+tags: ["ruby"]
 ---
 
 [syntax_fix](https://github.com/HeeL/syntax_fix) を使うと一瞬でした。

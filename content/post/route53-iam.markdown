@@ -3,7 +3,7 @@
 title: "Route 53 の特定の Hosted Zone を IAM ユーザで設定できるようにしてみた"
 date: 2014-02-14T15:55:00+09:00
 comments: true
-categories: ["route53","aws","iam"]
+tags: ["route53","aws","iam"]
 ---
 
 AWSの無料枠のうちにいろいろ遊ぼうと思っていたのに半年ぐらいなにもできてないユーザがこちらになります。こんにちは。

@@ -3,7 +3,7 @@
 title: "iOS でmtimeを設定する"
 date: 2014-02-10T19:05:00+09:00
 comments: true
-categories: ["ios"]
+tags: ["ios"]
 ---
 
 iOS で ファイルの mtime を設定したい事態が発生した。

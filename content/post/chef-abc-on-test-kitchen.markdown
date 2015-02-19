@@ -3,7 +3,7 @@
 title: "LT駆動開発10でTest KitchenではじめるChef入門という話をした。OSH2015のステマかもしれない。"
 date: 2015-01-10T12:00:00+09:00
 comments: true
-categories: [osh2015,chef]
+tags: [osh2015,chef]
 ---
 
 [LT駆動開発10](https://github.com/LTDD/Sessions/wiki/LT%E9%A7%86%E5%8B%95%E9%96%8B%E7%99%BA10)で「Test KitchenではじめるChef入門」という話をした。

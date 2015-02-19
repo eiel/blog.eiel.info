@@ -3,7 +3,7 @@
 title: "Ruby で モナドを書いてみた。"
 date: 2013-04-04T00:41:00+09:00
 comments: true
-categories: ["ruby","monad"]
+tags: ["ruby","monad"]
 ---
 
 ちょっと気分転換したかっただけで、反省している。

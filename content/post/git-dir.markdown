@@ -3,7 +3,7 @@
 title: "Gitリポジトリを直接動かして変更を検知 - QA@ITで遊んでる"
 date: 2013-06-05T13:26:00+09:00
 comments: true
-categories: [git]
+tags: [git]
 ---
 
 朝早く起きることができたら、[QA@IT](http://qa.atmarkit.co.jp/)で、遊んでいます。

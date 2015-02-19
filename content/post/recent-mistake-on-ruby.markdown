@@ -3,7 +3,7 @@
 title: "最近やった Ruby でのミス - rspec の expect で 空白に括弧"
 date: 2013-08-26T01:32:00+09:00
 comments: true
-categories: ["ruby"]
+tags: ["ruby"]
 ---
 
 Ruby かいてて些細なミスでハマったことを書いておきます。その2。

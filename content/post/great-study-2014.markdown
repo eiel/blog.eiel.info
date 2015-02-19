@@ -3,7 +3,7 @@
 title: "すごい合同勉強会2014 in 広島を開催した"
 date: 2014-11-02T12:14:00+09:00
 comments: true
-categories: ["すごい合同勉強会"]
+tags: ["すごい合同勉強会"]
 ---
 
 [すごい合同勉強会2014 in 広島](https://github.com/LTDD/Sessions/wiki/%E3%81%99%E3%81%94%E3%81%84%E5%90%88%E5%90%8C%E5%8B%89%E5%BC%B7%E4%BC%9A)を開催しました。

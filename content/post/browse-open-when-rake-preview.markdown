@@ -3,7 +3,7 @@
 title: "ローカルサーバ起動と同時にブラウザで開く。 - Jekyll とかで。"
 date: 2013-08-28T20:01:00+09:00
 comments: true
-categories: ["jekyll"]
+tags: ["jekyll"]
 ---
 
 

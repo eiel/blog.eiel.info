@@ -3,7 +3,7 @@
 title: "近畿大学のIT交流勉強会 2013 に参加してきた"
 date: 2013-12-08T00:15:00+09:00
 comments: true
-categories: ["output"]
+tags: ["output"]
 ---
 
 [近畿大学 工学部 情報学科](http://www.hiro.kindai.ac.jp/index.html)の IT 交流勉強会に参加してきました。

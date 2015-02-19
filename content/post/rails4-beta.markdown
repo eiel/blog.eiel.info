@@ -3,7 +3,7 @@
 title: "Rails 4.2.0 beta1 ちょっとだけ見たのでメモしとく。"
 date: 2014-08-22T15:21:00+09:00
 comments: true
-categories: ["rails"]
+tags: ["rails"]
 ---
 
 Rails 4.2.0.beta1 が出てるよね。

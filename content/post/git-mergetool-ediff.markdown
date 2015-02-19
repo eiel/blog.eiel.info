@@ -3,7 +3,7 @@
 title: "Mac で使える git mergetool をいろいろ試してみる - ediff"
 date: 2013-06-29T19:27:00+09:00
 comments: true
-categories: ["git","mac","emacs","ediff"]
+tags: ["git","mac","emacs","ediff"]
 ---
 
 

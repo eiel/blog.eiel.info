@@ -3,7 +3,7 @@
 title: "LT駆動開発という勉強会をはじめるよ"
 date: 2014-02-19T20:15:00+09:00
 comments: true
-categories: ["LT駆動開発"]
+tags: ["LT駆動開発"]
 ---
 
 [LT駆動開発](http://ltdd.doorkeeper.jp/)という勉強会がはじまります。広島で。

@@ -3,7 +3,7 @@
 title: "広島マックユーザグループで 黒い画面入門 + パッケージ管理画面の話をした"
 date: 2013-04-28T23:49:00+09:00
 comments: true
-categories: ["mac"]
+tags: ["mac"]
 ---
 
 [広島マックユーザーグループ](http://hiroshima.mac-ug.net/) の[勉強会](http://atnd.org/events/36583) で「黒い画面入門 + パッケージ管理紹介 + Macの使い方とか」と称して稚拙なセッションを担当しました。

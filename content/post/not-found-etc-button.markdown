@@ -3,7 +3,7 @@
 title: "ツイートを埋め込みするためのボタンが行方不明なので、JavaScriptでなんとかする"
 date: 2014-06-02T10:28:00+09:00
 comments: true
-categories: ["twitter"]
+tags: ["twitter"]
 ---
 
 ブログにツイートを埋め込みしたい…。

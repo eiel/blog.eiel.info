@@ -3,7 +3,7 @@
 title: "ActiveSupport::Concern - Railsのソースとか読みはじめた 2"
 date: 2012-11-18T23:42:00+09:00
 comments: true
-categories: ["rails","ruby","activesupport"]
+tags: ["rails","ruby","activesupport"]
 ---
 
 [ActiveSupport::Concern - Railsのソースとか読みはじめた](/blog//2012/11/14/activesupport-concern/)の続きになるのですが、

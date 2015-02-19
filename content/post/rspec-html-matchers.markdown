@@ -3,7 +3,7 @@
 title: "Rspecマッチャー rspec-html-matchersを試してみてる"
 date: 2012-06-22T18:04:00+09:00
 comments: true
-categories: [rspec,ruby,rails,rspec-html-matchers]
+tags: [rspec,ruby,rails,rspec-html-matchers]
 ---
 Ruby on Railsで ViewやHelperの Specを書く際に利用するマッチャーに良いのがないか探してます。現在のRspecはcontainぐらいしかないので、細かくチェックしたい場合は若干使いづらいです。というわけで、[rspec-html-matchers](https://github.com/kucaahbe/rspec-html-matchers)を試しています。
 

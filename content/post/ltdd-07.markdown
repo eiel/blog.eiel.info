@@ -3,7 +3,7 @@
 title: "LT駆動開発で hubot をつかったオフィスに誰がいるかわかるコマンドを作成した話をした"
 date: 2014-09-06T19:43:00+09:00
 comments: true
-categories: ["LT駆動", "slack", "hubot"]
+tags: ["LT駆動", "slack", "hubot"]
 ---
 
 [LT駆動開発07](https://github.com/LTDD/Sessions/wiki) でLTしてきた。

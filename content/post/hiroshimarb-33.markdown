@@ -3,7 +3,7 @@
 title: "広島Ruby勉強会 #033 でやったこと - ActiveSupport CoreExt & Rails Template"
 date: 2013-08-04T12:22:00+09:00
 comments: true
-categories: [rails]
+tags: [rails]
 ---
 
 [広島Ruby勉強会 #033](http://partake.in/events/9dacdbfc-8acf-4968-a0eb-5327a6937b7d) に参加しました。

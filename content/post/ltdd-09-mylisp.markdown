@@ -3,7 +3,7 @@
 title: "Lispインタープリタ勉強会に参加したので - LT駆動開発09"
 date: 2014-12-08T15:49:00+09:00
 comments: true
-categories: ["ltdd","lisp"]
+tags: ["ltdd","lisp"]
 ---
 
 [LT駆動開発09](https://github.com/LTDD/Sessions/wiki/LT%E9%A7%86%E5%8B%95%E9%96%8B%E7%99%BA09)でLTをした。

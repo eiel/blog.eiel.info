@@ -3,7 +3,7 @@
 title: "Windows8 を触ってみての感想"
 date: 2013-04-16T02:04:00+09:00
 comments: true
-categories: ["windows8"]
+tags: ["windows8"]
 ---
 
 お仕事で Windows8 を触る機会がありました。ちょろちょろいじっております。

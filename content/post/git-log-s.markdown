@@ -3,7 +3,7 @@
 title: "このコード書いた誰だよ! そんな時の git log -S でもしてみよう"
 date: 2013-06-04T20:30:00+09:00
 comments: true
-categories: [git]
+tags: [git]
 ---
 
 [広島Git勉強会](http://local.aguuu.com/events/15354) で [@pecosantoyobe](https://twitter.com/pecosantoyobe) が [git log の使えるオプションについて語る](https://github.com/furu/hiroshimadotgit)というナイスなセッションがありました。

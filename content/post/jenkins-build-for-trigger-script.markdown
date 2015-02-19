@@ -3,7 +3,7 @@
 title: "認証必須環境におけるJenkinsのスクリプトトリガーによるビルドの実行"
 date: 2012-11-19T18:18:00+09:00
 comments: true
-categories: ["jenkins"]
+tags: ["jenkins"]
 ---
 
 [Jenkins](http://jenkins-ci.org/)は便利に使わせていただいているのですが、git push をhookして`ビルドの開始`をできるようにしていないまま運用していて、重い腰をあげてやっと設定することにしました。

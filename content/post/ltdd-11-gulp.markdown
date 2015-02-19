@@ -3,7 +3,7 @@
 title: "「プログラマのためのGulp入門」というLTをするはずだった"
 date: 2015-02-16T00:04:00+09:00
 comments: true
-categories: ["LT駆動","Gulp"]
+tags: ["LT駆動","Gulp"]
 ---
 
 [LT駆動開発11](https://github.com/LTDD/Sessions/wiki/LT駆動開発11)で「プログラマのためのGulp入門」というLTをするはずだったんだけど、

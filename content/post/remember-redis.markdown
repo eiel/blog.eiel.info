@@ -3,7 +3,7 @@
 title: "Redis に保存されてる値を見ようと思った時に覚えておきたい redis コマンド"
 date: 2014-08-26T17:54:00+09:00
 comments: true
-categories: [redis]
+tags: [redis]
 ---
 
 [redis](http://redis.io/) なんか使ったことないけど redis を使うアプリケーションを使う場合に、デバッグや動作確認をするのに、データベースの中身が知りたい場合がある。

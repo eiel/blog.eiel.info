@@ -3,7 +3,7 @@
 title: "黒背景に青文字はやめろという話を合同勉強会in大都会で話をした。"
 date: 2014-12-14T15:03:00+09:00
 comments: true
-categories: ["color"]
+tags: ["color"]
 ---
 
 [合同勉強会 in 大都会岡山 -2014 Winter-](http://gbdaitokai.doorkeeper.jp/events/15289)に参加して、「黒背景に青文字はやめろ」という話をした。

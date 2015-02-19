@@ -3,7 +3,7 @@
 title: "オープンソースカンファレンス2014広島 - LT駆動開発 ベストセッションズ 凪のライトニングトーク"
 date: 2014-09-20T12:44:00+09:00
 comments: true
-categories: ["OSC","LT駆動"]
+tags: ["OSC","LT駆動"]
 ---
 
 [オープンソースカンファレンス2014広島](http://www.ospn.jp/osc2014-hiroshima/)の[LT駆動開発 ベストセッションズ – 凪のライトニングトーク](https://www.ospn.jp/osc2014-hiroshima/modules/eguide/event.php?eid=7)の中でライトニングトークをしてきました。

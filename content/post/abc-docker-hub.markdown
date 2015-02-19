@@ -3,7 +3,7 @@
 title: "Docker Hub を少し試してきた"
 date: 2014-07-10T15:04:00+09:00
 comments: true
-categories: ["docker","gentoo"]
+tags: ["docker","gentoo"]
 ---
 
 [Docker](http://www.docker.com/) 初心者です。

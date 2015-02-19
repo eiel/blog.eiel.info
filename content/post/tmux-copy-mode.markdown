@@ -3,7 +3,7 @@
 title: "tmux で copy-mode でのキーバインドについて"
 date: 2013-02-17T12:45:00+09:00
 comments: true
-categories: ["tumx","emacs","vim"]
+tags: ["tumx","emacs","vim"]
 ---
 
 tmuxのコピーモードでのキーバインドはデフォルトで emacs like になっています。

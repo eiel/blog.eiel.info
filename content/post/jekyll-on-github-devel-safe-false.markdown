@@ -3,7 +3,7 @@
 title: "GitHub Pages で jekyll を使うなら safe: false で開発したほうが良いかもしれない"
 date: 2014-05-08T09:50:00+09:00
 comments: true
-categories: ["jekyll","github"]
+tags: ["jekyll","github"]
 ---
 
 3月ぐらいから GitHub Pages でも使える Jekyll のプラグインが一部使えるようになりました。

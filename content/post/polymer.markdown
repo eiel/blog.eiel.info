@@ -3,7 +3,7 @@
 title: "Polymer という Web Componets のラッパーを試した"
 date: 2013-05-31T19:33:00+09:00
 comments: true
-categories: ["javascript","html5","polymer"]
+tags: ["javascript","html5","polymer"]
 ---
 
 Google I/O で紹介されていた [Polymer](http://www.polymer-project.org/) という JavaScript で少し遊びました。

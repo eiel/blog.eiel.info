@@ -3,7 +3,7 @@
 title: "コミュニティに GitHub に使ってみて - すごい広島"
 date: 2013-10-21T16:44:00+09:00
 comments: true
-categories: ["GitHub", "すごい広島"]
+tags: ["GitHub", "すごい広島"]
 ---
 
 [すごい広島](http://great-h.github.io/) も20回を越えて、そろそろ半年経とうとしています。

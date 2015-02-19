@@ -3,7 +3,7 @@
 title: "ReVIEW を試してみる"
 date: 2013-08-14T18:47:00+09:00
 comments: true
-categories: ["review"]
+tags: ["review"]
 ---
 
 毎週のアレ、[すごい広島 #013](http://great-h.github.io/events/event-013.html)で試したこと。

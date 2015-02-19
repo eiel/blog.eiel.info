@@ -3,7 +3,7 @@
 title: "LT駆動開発11で「 dockerをどこかで使う」という話をした"
 date: 2015-02-14T23:38:00+09:00
 comments: true
-categories: ["osh","lt駆動","docker"]
+tags: ["osh","lt駆動","docker"]
 ---
 
 [LT駆動開発11](https://github.com/LTDD/Sessions/wiki/LT%E9%A7%86%E5%8B%95%E9%96%8B%E7%99%BA11)でライトニングトークをしました。

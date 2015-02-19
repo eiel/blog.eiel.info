@@ -3,7 +3,7 @@
 title: "GitHub戦闘力を提案してみた - 座駆動LT大会"
 date: 2014-09-13T22:38:00+09:00
 comments: true
-categories: ["ネタ","勉強会","GitHub"]
+tags: ["ネタ","勉強会","GitHub"]
 ---
 
 座駆動LT大会で「戦闘力」というLTをしてきました。

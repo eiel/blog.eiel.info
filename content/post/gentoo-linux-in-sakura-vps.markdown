@@ -3,7 +3,7 @@
 title: "さくらVPSでGentoo をインストールした時のはまったことのメモ"
 date: 2014-07-01T17:58:00+09:00
 comments: true
-categories: ["gentoo","linux"]
+tags: ["gentoo","linux"]
 ---
 
 つかってた VPS がサービス終了してしまったので、さくら VPS に移行してみた。

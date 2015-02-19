@@ -3,7 +3,7 @@
 title: "Cucumber のフィーチャの文法 - Gherkin"
 date: 2013-02-12T14:13:00+09:00
 comments: true
-categories: ["Cucumber", "Gherkin", "BDD", "TDD"]
+tags: ["Cucumber", "Gherkin", "BDD", "TDD"]
 ---
 
 Cucumber 利用していますか？

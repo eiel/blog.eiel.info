@@ -3,7 +3,7 @@
 title: "LT駆動開発で「CI のある生活」という話をするはずだった"
 date: 2014-03-03T12:05:00+09:00
 comments: true
-categories: ["LTDD","CI"]
+tags: ["LTDD","CI"]
 ---
 
 [LT駆動開発 01](https://github.com/LTDD/Sessions/wiki/LT%E9%A7%86%E5%8B%95%E9%96%8B%E7%99%BA01)で「CI のある生活 すごい広島の例」という話をするはずでしたが、時間の都合で「すごい広島の例」だけになりました。

@@ -3,7 +3,7 @@
 title: "zeus test で スペックを実行すると 2度実行されてしまう"
 date: 2012-12-27T18:05:00+09:00
 comments: true
-categories: ["rspec","zeus","rails"]
+tags: ["rspec","zeus","rails"]
 ---
 
 `zeus test` で spec を走らせるとなぜかスペックが2度実行されるようになっていた。

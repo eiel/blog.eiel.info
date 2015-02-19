@@ -3,7 +3,7 @@
 title: "rails4 rc1 がリリースされたことだし beta1 からアップグレードしてみた"
 date: 2013-05-03T01:36:00+09:00
 comments: true
-categories: [rails]
+tags: [rails]
 ---
 
 [Rails 4.0 rc1 がリリース](http://weblog.rubyonrails.org/2013/5/1/Rails-4-0-release-candidate-1/)されてますね。軽いノリでアップグレードしてみたら余裕で起動しませんでした。

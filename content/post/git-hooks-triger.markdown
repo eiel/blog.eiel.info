@@ -3,7 +3,7 @@
 title: "git push 時に発生する update hookを起動するワンナイナー"
 date: 2012-11-20T15:41:00+09:00
 comments: true
-categories: ['git']
+tags: ['git']
 ---
 
 git の hooks の update hook の動作確認するのに使ってたワンナイナー。

@@ -3,7 +3,7 @@
 title: "magit-brame-modeの表示がみやすかった件"
 date: 2012-05-30T17:55:00+09:00
 comments: true
-categories: [emacs,magit,git]
+tags: [emacs,magit,git]
 ---
 共同作業ないし、自分が書いたコードでも**ここ変更したのいつだっけ**ってことあると`git blame`を利用するんですが、emacs の magit についてる magit-brame-mode がみやすくて感動しました。
 

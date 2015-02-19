@@ -3,7 +3,7 @@
 title: "Wisper 試した"
 date: 2013-12-25T01:11:00+09:00
 comments: true
-categories: ["rails","wisper"]
+tags: ["rails","wisper"]
 ---
 
 [Wisper](https://github.com/krisleech/wisper) を試した。

@@ -3,7 +3,7 @@
 title: "最近のMacでRubyのビルドに失敗するなら brew unlink apple-gcc42とかしたらいいかもしれない"
 date: 2014-10-14T16:03:00+09:00
 comments: true
-categories: ["Ruby"]
+tags: ["Ruby"]
 ---
 
 友人のMacでRubyのインストールに失敗するらしいということでログとかいろいろみせてもらった。

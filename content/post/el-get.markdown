@@ -3,7 +3,7 @@
 title: "自分の el-get のワークフローについて整理する"
 date: 2013-08-07T19:07:00+09:00
 comments: true
-categories: ["emacs","el-get"]
+tags: ["emacs","el-get"]
 ---
 
 この記事は [すごい広島 #12](http://great-h.github.io/events/event-012.html) で書きました。

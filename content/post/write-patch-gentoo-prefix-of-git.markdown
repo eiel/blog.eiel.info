@@ -3,7 +3,7 @@
 title: "Gentoo Prefix 環境で git がビルドできないので bug報告してみた"
 date: 2013-01-14T23:26:00+09:00
 comments: true
-categories: ["gentoo prefix"]
+tags: ["gentoo prefix"]
 ---
 
 結構前からわかっていたんだけども、[Gentoo Prefix](http://www.gentoo.org/proj/en/gentoo-alt/prefix/) on Mac OSX で USE="subversion" していると gitのビルドに失敗していた。

@@ -3,7 +3,7 @@
 title: "忘年会議2013 に参加して LT したり、表彰されたりした"
 date: 2013-12-16T15:08:00+09:00
 comments: true
-categories: ["岡山","勉強会"]
+tags: ["岡山","勉強会"]
 ---
 
 [合同勉強会](http://gbdaitokai.doorkeeper.jp/events/5725)の懇親会ともいえる、[忘年会議2013](http://bonenkaigi.doorkeeper.jp/events/5889)に参加しました。

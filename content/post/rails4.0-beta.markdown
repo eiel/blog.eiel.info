@@ -3,7 +3,7 @@
 title: "Rails4 beta1 がリリースされたのでアップグレードしてみた"
 date: 2013-02-27T14:32:00+09:00
 comments: true
-categories: ["rails4","rails"]
+tags: ["rails4","rails"]
 ---
 
 [Rails4 beta1がリリースされてます。](http://weblog.rubyonrails.org/2013/2/25/Rails-4-0-beta1/)

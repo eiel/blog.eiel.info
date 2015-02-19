@@ -3,7 +3,7 @@
 title: "pygements を利用してると jekyll serve --watch のファイル生成が遅いらしい"
 date: 2013-08-30T22:25:00+09:00
 comments: true
-categories: ["Jekyll"]
+tags: ["Jekyll"]
 ---
 
 以下の質問を受けた。

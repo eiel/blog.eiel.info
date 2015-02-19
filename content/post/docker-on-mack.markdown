@@ -3,7 +3,7 @@
 title: "Mac で docker 起動できない時。具体的にはDOCKER_HOSTを指定してない時"
 date: 2014-07-10T18:27:00+09:00
 comments: true
-categories: ["mac","docker"]
+tags: ["mac","docker"]
 ---
 
 DOCKER_HOST を指定しとけって話。

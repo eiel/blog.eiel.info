@@ -3,7 +3,7 @@
 title: "ruby-end マイナーモード - emacs"
 date: 2013-10-22T14:41:00+09:00
 comments: true
-categories: ["emacs", "ruby"]
+tags: ["emacs", "ruby"]
 ---
 
 [ruby-end](https://github.com/rejeep/ruby-end) モードをいれました。

@@ -3,7 +3,7 @@
 title: "VagrantでX転送"
 date: 2014-12-10T20:47:00+09:00
 comments: true
-categories: ["vagrant"]
+tags: ["vagrant"]
 ---
 
 以下をかいておけばよい。

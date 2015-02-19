@@ -3,7 +3,7 @@
 title: "広島Git勉強会 201306 - やりなおせるGit入門"
 date: 2013-06-02T20:47:00+09:00
 comments: true
-categories: [git,勉強会]
+tags: [git,勉強会]
 ---
 
 [広島Git勉強会](http://local.aguuu.com/events/15354) に参加しました。

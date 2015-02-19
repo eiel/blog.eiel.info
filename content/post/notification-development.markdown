@@ -3,7 +3,7 @@
 title: "通知環境としてidobataを試した話をLT駆動開発04でした"
 date: 2014-06-07T23:34:00+09:00
 comments: true
-categories: ["LT駆動","bot"]
+tags: ["LT駆動","bot"]
 ---
 
 今月も[LT駆動開発04](https://github.com/LTDD/Sessions/wiki/LT%E9%A7%86%E5%8B%95%E9%96%8B%E7%99%BA04)でライトニングトークしてきました。

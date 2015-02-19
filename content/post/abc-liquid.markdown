@@ -3,7 +3,7 @@
 title: "広島Ruby勉強会 #30で Liquidの簡単な説明をした"
 date: 2013-03-02T21:04:00+09:00
 comments: true
-categories: ["Ruby","liquid","Jekyll","Github"]
+tags: ["Ruby","liquid","Jekyll","Github"]
 ---
 
 [広島Ruby勉強会 #030](http://hiroshimarb.github.com/blog/2013/02/08/hiroshimarb-30/)で Jekyl の中で使用されている テンプレートエンジン Liquid のざっくりとした説明をする LT しました。

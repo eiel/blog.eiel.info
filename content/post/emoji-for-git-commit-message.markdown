@@ -3,7 +3,7 @@
 title: "コミットメッセージの先頭に絵文字いれるのが流行ってんだろうか"
 date: 2014-07-07T16:38:00+09:00
 comments: true
-categories: ["git","atom editor"]
+tags: ["git","atom editor"]
 ---
 
 [Atom Editor](https://atom.io) の Contributringをみてみると、「コミットメッセージの先頭に関係ある絵文字をいれろ」的なことが書いてある。

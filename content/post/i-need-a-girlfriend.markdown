@@ -3,7 +3,7 @@
 title: "そういえば彼氏募集というネタリポジトリがありましたね。真似するならこんな感じかなぁ。"
 date: 2014-02-08T17:19:00+09:00
 comments: true
-categories: ["github","travis","haskell","ネタ"]
+tags: ["github","travis","haskell","ネタ"]
 ---
 
 最近、C++界や、ひろし魔界で暴れているらしい[まさかず氏](https://twitter.com/PG_nonen)が[彼氏募集のリポジトリ](https://github.com/norinori2222/boyfriend_require)を真似して[彼女募集のリポジトリ](https://github.com/minamiyama1994/girlfriend_require)を作成してました。

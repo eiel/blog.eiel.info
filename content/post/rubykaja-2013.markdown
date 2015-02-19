@@ -3,7 +3,7 @@
 title: "RubyKaja 2013 に選ばれたんだ"
 date: 2013-11-22T00:44:00+09:00
 comments: true
-categories: ["ruby"]
+tags: ["ruby"]
 ---
 
 そういえば [RubyKaja 2013](http://kaja.rubyist.net/2013/kaja) に選ばれました。

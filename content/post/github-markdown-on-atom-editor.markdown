@@ -3,7 +3,7 @@
 title: "Atom Editor で markdownモードのスニペットの追加"
 date: 2014-07-07T15:20:00+09:00
 comments: true
-categories: ["atom editor","markdown"]
+tags: ["atom editor","markdown"]
 ---
 
 [Atom Editor](https://atom.io/)をときどき試している。

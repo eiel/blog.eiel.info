@@ -3,7 +3,7 @@
 title: "LT駆動開発10で「Rubyistからみたnpm」という話をした。"
 date: 2015-01-10T18:52:00+09:00
 comments: true
-categories: [ltdd,npm]
+tags: [ltdd,npm]
 ---
 
 [LT駆動開発10](https://github.com/LTDD/Sessions/wiki/LT%E9%A7%86%E5%8B%95%E9%96%8B%E7%99%BA10)で「Rubyistからみたnpm」という話をした。

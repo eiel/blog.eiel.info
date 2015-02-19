@@ -3,7 +3,7 @@
 title: "raptureXML でXMLのparse"
 date: 2012-12-06T14:33:00+09:00
 comments: true
-categories: ["iOS","XML","Objective-c"]
+tags: ["iOS","XML","Objective-c"]
 ---
 
 XMLのパースしなきゃいけなくて、libxmlで処理するのめんどくさいなー。ということで、[CocoaPod](http://ios.eiel.info/CocoaPods)を探った結果、[RaptureXML](https://github.com/ZaBlanc/RaptureXML)を試してみることにしました。

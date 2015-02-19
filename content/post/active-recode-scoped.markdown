@@ -3,7 +3,7 @@
 title: "ActiveRecordで今のスコープをそのまま返したい"
 date: 2012-08-01T11:37:00+09:00
 comments: true
-categories: [ruby,rails,ActiveRecord]
+tags: [ruby,rails,ActiveRecord]
 ---
 
 あるオプションパラメータがあるかどうかで、条件が変わるような処理を書いてると、オプションがない場合、ActiveRecord::Relationが欲しくなるような場面があります。

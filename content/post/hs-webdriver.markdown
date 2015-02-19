@@ -3,7 +3,7 @@
 title: "Haskell で Selenium"
 date: 2014-08-25T16:20:00+09:00
 comments: true
-categories: ["haskell","selenium"]
+tags: ["haskell","selenium"]
 ---
 
 たまには Haskell が書きたかったので、コマンドラインからあるウェブサービスに書き込みできるようにしたが失敗した。

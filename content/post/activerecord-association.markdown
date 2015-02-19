@@ -3,7 +3,7 @@
 title: "ActiveRecordで関連レコードの自動保存"
 date: 2012-12-30T13:50:00+09:00
 comments: true
-categories: ["rails","ruby"]
+tags: ["rails","ruby"]
 ---
 
 ActiveRecordで has_one なんかで関連づけしている場合、関連モデルを保存しわすれる。

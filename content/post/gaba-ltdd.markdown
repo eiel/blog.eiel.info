@@ -3,7 +3,7 @@
 title: "LT駆動開発で とある我馬の非公式というLTをした"
 date: 2014-08-02T11:00:00+09:00
 comments: true
-categories: ["LT駆動","ラーメン屋","Rails","Atom"]
+tags: ["LT駆動","ラーメン屋","Rails","Atom"]
 ---
 
 [LT駆動開発06](https://github.com/LTDD/Sessions/wiki/LT%E9%A7%86%E5%8B%95%E9%96%8B%E7%99%BA06) でライトニングトークをした。

@@ -3,7 +3,7 @@
 title: "2014年を振り返る - GitHub編"
 date: 2014-12-31T16:08:00+09:00
 comments: true
-categories: []
+tags: []
 ---
 
 2014年をふりかえりしようと思っていたら31日なっていた。

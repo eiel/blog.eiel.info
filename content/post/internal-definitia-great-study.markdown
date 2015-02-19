@@ -3,7 +3,7 @@
 title: "内包表記について、すごい合同勉強会で話した"
 date: 2014-11-02T12:25:00+09:00
 comments: true
-categories: ["内包表記","Haskell","Python"]
+tags: ["内包表記","Haskell","Python"]
 ---
 
 [すごい合同勉強会2014 in 広島](https://github.com/LTDD/Sessions/wiki/%E3%81%99%E3%81%94%E3%81%84%E5%90%88%E5%90%8C%E5%8B%89%E5%BC%B7%E4%BC%9A)でセッションしたので内容を公開しておく。

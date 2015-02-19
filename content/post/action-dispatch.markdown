@@ -3,7 +3,7 @@
 title: "ActionDispatch ってなんだろう？ - 広島・岡山Ruby交流会01"
 date: 2014-03-30T01:27:00+09:00
 comments: true
-categories: ["ActionDispatch"]
+tags: ["ActionDispatch"]
 ---
 
 ちわっす。絶賛、仕事が遅れまくっていてこんなことをしている場合じゃない状態です。こんにちは。

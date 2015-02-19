@@ -3,7 +3,7 @@
 title: "オフィスチェアを買いました。- LT駆動開発04"
 date: 2014-06-08T00:01:00+09:00
 comments: true
-categories: ["LT駆動開発"]
+tags: ["LT駆動開発"]
 ---
 
 [LT駆動開発04](https://github.com/LTDD/Sessions/wiki/LT%E9%A7%86%E5%8B%95%E9%96%8B%E7%99%BA04)で椅子を買った自慢をしといた。

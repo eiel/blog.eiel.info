@@ -3,7 +3,7 @@
 title: "i18n で ActiveModelを使ったモデルの日本語化"
 date: 2013-04-29T13:53:00+09:00
 comments: true
-categories: [active_model, i18n]
+tags: [active_model, i18n]
 ---
 
 `ActiveModel` を利用したモデルで i18n を利用しようとして以下のようなyamlを書いたら日本語にならなかった。

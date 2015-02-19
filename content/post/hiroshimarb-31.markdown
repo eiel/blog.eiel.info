@@ -3,7 +3,7 @@
 title: "広島Ruby勉強会 #031 で 「Hakyllで遊んだ」のでざくっと紹介した。"
 date: 2013-04-07T01:00:00+09:00
 comments: true
-categories: ["hakyll","Haskell","active_support"]
+tags: ["hakyll","Haskell","active_support"]
 ---
 
 [広島Ruby勉強会 #031](http://hiroshimarb.github.io/blog/2013/04/06/hiroshimarb-31/) で かるくLT しました。

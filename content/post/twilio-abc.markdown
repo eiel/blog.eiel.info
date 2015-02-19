@@ -3,7 +3,7 @@
 title: "Twilio を使って、着信でモールス信号してみた。"
 date: 2014-03-15T02:54:00+09:00
 comments: true
-categories: ["twilio","ネタ"]
+tags: ["twilio","ネタ"]
 ---
 
 [Twilio API 勉強会](http://twiliomeetup.doorkeeper.jp/events/9078)に遊びにいった。

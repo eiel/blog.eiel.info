@@ -3,7 +3,7 @@
 title: "Github で Jekyll を使う時に調べたこと"
 date: 2013-02-18T00:46:00+09:00
 comments: true
-categories: ["github", "jekyll"]
+tags: ["github", "jekyll"]
 ---
 
 Github で Jekyll を使うときにできることとか調べたので整理しておきます。

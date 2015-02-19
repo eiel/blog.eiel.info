@@ -3,7 +3,7 @@
 title: "Mac で使える git mergetool をいろいろ試してみる - p4merge"
 date: 2013-06-29T18:58:00+09:00
 comments: true
-categories: ["git","mac","p4merge"]
+tags: ["git","mac","p4merge"]
 ---
 
 [Mac で使える git mergetool をいろいろ試してみる - 準備編](/blog/2013/06/26/git-mergetool/) の続きです。

@@ -3,7 +3,7 @@
 title: "Github の楽しみ方"
 date: 2013-05-13T01:06:00+09:00
 comments: true
-categories: [github]
+tags: [github]
 ---
 
 みなさん [Github](https://github.com/) を楽しんでいますか？

@@ -3,7 +3,7 @@
 title: "Mac で使える git mergetool をいろいろ試してみる - xxdiff"
 date: 2013-07-03T21:27:00+09:00
 comments: true
-categories: ["git","xxdiff","mac"]
+tags: ["git","xxdiff","mac"]
 ---
 
 [Mac で使える git mergetool をいろいろ試してみる - 準備編](/blog/2013/06/26/git-mergetool/) の続きです。

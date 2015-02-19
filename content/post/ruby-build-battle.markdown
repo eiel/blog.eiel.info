@@ -3,7 +3,7 @@
 title: "ruby-build の プルリクエスト バトル"
 date: 2013-02-24T23:14:00+09:00
 comments: true
-categories: ["ネタ","github","ruby"]
+tags: ["ネタ","github","ruby"]
 ---
 
 ネタです。

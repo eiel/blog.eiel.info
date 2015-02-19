@@ -3,7 +3,7 @@
 title: "ssh でポートフォワーディングしてブラウザで開くだけの gemを作った"
 date: 2013-08-10T01:57:00+09:00
 comments: true
-categories: ["ruby"]
+tags: ["ruby"]
 ---
 
 

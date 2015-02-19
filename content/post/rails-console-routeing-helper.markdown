@@ -3,7 +3,7 @@
 title: "rails console でルーティングが生成した helper を使う"
 date: 2014-05-16T15:54:00+09:00
 comments: true
-categories: ["rails"]
+tags: ["rails"]
 ---
 
 Railsで `config/routes.rb` に

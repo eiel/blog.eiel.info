@@ -3,7 +3,7 @@
 title: "AutoLayout TIPS - 真ん中に固定幅のスペース"
 date: 2013-05-19T12:04:00+09:00
 comments: true
-categories: [ios,autolayout]
+tags: [ios,autolayout]
 ---
 
 AutoLayout になかなか慣れません。

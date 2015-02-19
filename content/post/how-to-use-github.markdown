@@ -3,7 +3,7 @@
 title: "Git がわからなくても Github を利用しよう"
 date: 2013-02-06T13:36:00+09:00
 comments: true
-categories: ["github", "エッセイ"]
+tags: ["github", "エッセイ"]
 ---
 
 みなさん [Github](https://github.com/) を利用していますか？

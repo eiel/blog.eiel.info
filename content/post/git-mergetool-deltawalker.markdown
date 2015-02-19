@@ -3,7 +3,7 @@
 title: "Mac で使える git mergetool をいろいろ試してみる - DeltaWalker"
 date: 2013-07-03T19:16:00+09:00
 comments: true
-categories: ["git","deltawalker"]
+tags: ["git","deltawalker"]
 ---
 
 [Mac で使える git mergetool をいろいろ試してみる - 準備編](/blog/2013/06/26/git-mergetool/) の続きです。

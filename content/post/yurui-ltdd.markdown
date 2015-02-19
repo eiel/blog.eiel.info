@@ -3,7 +3,7 @@
 title: "LT駆動開発というゆるいIT勉強会を紹介する - ゆるい広島 Advent Calendar 2014"
 date: 2014-11-26T19:46:00+09:00
 comments: true
-categories: ["ltdd","勉強会"]
+tags: ["ltdd","勉強会"]
 ---
 
 この記事は[ゆるい広島 Advent Calendar 2014](http://www.adventar.org/calendars/334)の1日目の記事です。このアドベントカレンダーは広島をテーマに好きなことを書いていいらしいアドベントカレンダーです。

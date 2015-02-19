@@ -3,7 +3,7 @@
 title: "rails new した時の追加処理をかく"
 date: 2013-08-01T18:00:00+09:00
 comments: true
-categories: ["rails", "railtie"]
+tags: ["rails", "railtie"]
 ---
 
 この記事はメモです。

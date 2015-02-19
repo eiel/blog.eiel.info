@@ -3,7 +3,7 @@
 title: "流れるようにプログラミングしたい - 合同勉強会 in 大都会岡山 2013 Winter"
 date: 2013-12-15T01:38:00+09:00
 comments: true
-categories: ["勉強会","ruby","haskell"]
+tags: ["勉強会","ruby","haskell"]
 ---
 
 [合同勉強会 in 大都会岡山 -2013 Winter-](http://gbdaitokai.doorkeeper.jp/events/5725) でライトニングトークをしました。

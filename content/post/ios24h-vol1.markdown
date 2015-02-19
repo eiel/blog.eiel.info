@@ -3,7 +3,7 @@
 title: "iOS24h Vol.1でCocoaPodsの紹介をした"
 date: 2012-06-17T18:01:00+09:00
 comments: true
-categories: [ios,ios24h,cocoapods]
+tags: [ios,ios24h,cocoapods]
 ---
 [iOS24h](http://ios24h.net/)という ustream番組で午前3時にCocoaPodsについてしゃべりました。
 

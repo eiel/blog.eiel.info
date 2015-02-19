@@ -3,7 +3,7 @@
 title: "LT駆動開発08でWerckerのBOXの作り方の流れを軽く説明した"
 date: 2014-10-05T10:30:00+09:00
 comments: true
-categories: ["wercker","LT駆動"]
+tags: ["wercker","LT駆動"]
 ---
 
 [LT駆動開発08](https://github.com/LTDD/Sessions/wiki/LT%E9%A7%86%E5%8B%95%E9%96%8B%E7%99%BA08)でWerckerのBOXの作り方を本当に軽く説明した。

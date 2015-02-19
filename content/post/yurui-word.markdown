@@ -3,7 +3,7 @@
 title: "広島で使われるゆるい言葉 - ゆるい広島 Advent Calendar 2014"
 date: 2014-12-09T00:00:00+09:00
 comments: true
-categories:
+tags:
 ---
 
 この記事は[ゆるい広島 Advent Calendar 2014](http://www.adventar.org/calendars/334)の7日目の記事です。昨日は[Toro_kun](https://twitter.com/Toro_kun)さんの[LT駆動開発というゆるい勉強会でCreative Commons LicenseについてゆるくLTしてきた – ゆるい広島 Advent Calendar 2014 8日目](http://106n.net/toro/blog/ltdd09-hiroshima-advent-2014-8/)でした。

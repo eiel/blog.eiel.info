@@ -3,7 +3,7 @@
 title: "最近やった Ruby でのミス - カンマで改行"
 date: 2013-06-24T00:58:00+09:00
 comments: true
-categories: [ruby]
+tags: [ruby]
 ---
 
 Ruby かいてて些細なミスでハマったことを書いておきます。

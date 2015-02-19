@@ -3,7 +3,7 @@
 title: "今さらながら turbolinksを試した。- 感想"
 date: 2013-02-11T01:14:00+09:00
 comments: true
-categories: ["rails"]
+tags: ["rails"]
 ---
 
 今さらながら Rails4 の新機能の一つである [turbolinks](https://github.com/rails/turbolinks) を試してみました。

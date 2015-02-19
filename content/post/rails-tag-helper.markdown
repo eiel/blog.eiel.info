@@ -3,7 +3,7 @@
 title: "TagHelperっていうのがあるんだけど、周りの人が使ってない - Rails"
 date: 2012-11-22T10:35:00+09:00
 comments: true
-categories: ["rails","ActionPack"]
+tags: ["rails","ActionPack"]
 ---
 
 Railsのhelperに [TagHelper](http://rubydoc.info/gems/actionpack/3.2.8/ActionView/Helpers/TagHelper) っていうのが `text_area_tag` のようなフォームを作成するような Helper がありますが、その内部で使用するようなメソッドが定義されています。

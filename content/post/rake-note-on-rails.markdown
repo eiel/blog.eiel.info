@@ -3,7 +3,7 @@
 title: "Rails の rake notes というタスクをいまさらしった。"
 date: 2013-01-19T11:35:00+09:00
 comments: true
-categories: ["rails"]
+tags: ["rails"]
 ---
 
 [Rails Guide](http://guides.rubyonrails.org/command_line.html) 読んでたら `notes` というタスクがあるのを知りました。

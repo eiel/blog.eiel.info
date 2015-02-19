@@ -3,7 +3,7 @@
 title: "gitolite で tag への権限付与"
 date: 2013-08-23T22:32:00+09:00
 comments: true
-categories: ["gitolite"]
+tags: ["gitolite"]
 ---
 
 [gitolite](https://github.com/sitaramc/gitolite) でリポジトリを管理しております。

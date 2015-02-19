@@ -3,7 +3,7 @@
 title: "広島Ruby勉強会 #035 に参加したり、喋ったりした。"
 date: 2013-11-03T01:01:00+09:00
 comments: true
-categories: ["ruby","広島Ruby勉強会"]
+tags: ["ruby","広島Ruby勉強会"]
 ---
 
 [広島Ruby勉強会 #035](http://hiroshimarb.github.io/blog/2013/11/02/hiroshimarb-35/)に参加してきました。

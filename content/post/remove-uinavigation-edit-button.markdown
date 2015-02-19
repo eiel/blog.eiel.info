@@ -3,7 +3,7 @@
 title: "UITabBarControllerのMoreに表示される edit を消したいなー。"
 date: 2013-01-09T22:30:00+09:00
 comments: true
-categories: ["iOS","UITabBarController"]
+tags: ["iOS","UITabBarController"]
 ---
 
 **「UITabBarControllerのMoreに表示される edit を消したいなー。」**と思いながら、なんてググればいいんだろーと思いつつも、ヘッダファイルをみていたら customizableViewControllers ってプロパティがあった。

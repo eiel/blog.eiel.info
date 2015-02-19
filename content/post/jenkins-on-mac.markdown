@@ -3,7 +3,7 @@
 title: "Mac で jenkins"
 date: 2013-07-23T11:45:00+09:00
 comments: true
-categories: ["jenkins"]
+tags: ["jenkins"]
 ---
 
 Mac で ローカルに「すごい cron」的に使うために Jenkins を入れて遊んでいます。

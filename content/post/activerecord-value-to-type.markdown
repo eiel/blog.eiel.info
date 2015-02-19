@@ -3,7 +3,7 @@
 title: "ActiveModelを利用してフォームを作成した時の型変換"
 date: 2013-03-20T15:00:00+09:00
 comments: true
-categories: ["ActiveRecord","ActiveModel","Ruby"]
+tags: ["ActiveRecord","ActiveModel","Ruby"]
 ---
 
 対応するレコードがないフォームを使う場合、ActiveModelを使用することで、シンプルなビューを構築しつつ、処理はモデルにかけます。

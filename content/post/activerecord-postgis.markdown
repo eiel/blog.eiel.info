@@ -3,7 +3,7 @@
 title: "PostGIS関連でRailsの本番環境でエラー"
 date: 2014-12-13T05:51:00+09:00
 comments: true
-categories: ["activerecord","postgis"]
+tags: ["activerecord","postgis"]
 ---
 
 PostGIS

@@ -3,7 +3,7 @@
 title: "シェルの if を1行でかく"
 date: 2014-07-03T12:13:00+09:00
 comments: true
-categories: ["sh"]
+tags: ["sh"]
 ---
 
 [すごい広島 59](http://great-h.github.io/events/event-059.html) のメモ

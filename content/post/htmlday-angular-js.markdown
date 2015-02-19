@@ -3,7 +3,7 @@
 title: "Rails で AngularJs を使おうとしてみた"
 date: 2013-06-12T20:05:00+09:00
 comments: true
-categories: [angularjs,すごい広島]
+tags: [angularjs,すごい広島]
 ---
 
 [\<htmlday\> 2013](http://www.htmlday.jp)でやったことプラスアルファ。

@@ -3,7 +3,7 @@
 title: "広島Ruby勉強会 #32 で 発表したこと - ActiveSupport, jenkins"
 date: 2013-07-08T01:00:00+09:00
 comments: true
-categories: ["ruby","jenkins","activesupport"]
+tags: ["ruby","jenkins","activesupport"]
 ---
 
 [広島Ruby勉強会 #032](http://hiroshimarb.github.io/blog/2013/07/06/hiroshimarb-32/) で、紹介したこととか、喋ったこととかまとめときます。

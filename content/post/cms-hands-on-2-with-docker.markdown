@@ -3,7 +3,7 @@
 title: "DockerでCMSの会 Vol.2に挑む - 準備編"
 date: 2015-01-26T18:01:00+09:00
 comments: true
-categories: [docker]
+tags: [docker]
 ---
 
 [CMSの会 Vol.2](http://kawa-tani.com/cms-hands-on/)というイベントが2月7日(土)に広島で行われるらしい。

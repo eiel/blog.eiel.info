@@ -3,7 +3,7 @@
 title: "Sensu を少しだけ触ってみた"
 date: 2014-03-05T20:16:00+09:00
 comments: true
-categories: ["sensu","chef","ruby"]
+tags: ["sensu","chef","ruby"]
 ---
 
 ちょっと前に [Sensu](http://sensuapp.org/) を試した。

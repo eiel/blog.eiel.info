@@ -3,7 +3,7 @@
 title: "Ruyb on Railsにて render を before_filterとかafter_filterで読んだら酷い目にあった"
 date: 2012-07-12T15:22:00+09:00
 comments: true
-categories: [rails]
+tags: [rails]
 ---
 コントローラ内デいろんなところで同じrenderを書いてたのでリファクタリングしようと思った。
 

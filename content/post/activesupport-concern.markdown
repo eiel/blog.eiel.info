@@ -3,7 +3,7 @@
 title: "ActiveSupport::Concern - Railsのソースとか読みはじめた"
 date: 2012-11-14T11:59:00+09:00
 comments: true
-categories: ["rails", "ActiveSupport"]
+tags: ["rails", "ActiveSupport"]
 ---
 
 Railsのソースをちょろちょろ読むようにしている。読んで学んだことをメモしておきたい。だいたい読んだ当時の最新リリースを参考にします。

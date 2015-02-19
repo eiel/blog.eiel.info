@@ -3,7 +3,7 @@
 title: "今すぐフォローしたい!?広島のすごいTwitterユーザを紹介"
 date: 2013-12-01T00:00:00+09:00
 comments: true
-categories: ["広島","twitter"]
+tags: ["広島","twitter"]
 ---
 
 本記事は[すごい広島 Advent Calendar 2013](http://www.adventar.org/calendars/74)の1日目の記事となります。

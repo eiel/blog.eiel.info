@@ -3,7 +3,7 @@
 title: "Exception Notification の 4.x 系へのアップグレード"
 date: 2013-07-24T10:47:00+09:00
 comments: true
-categories: ["rails"]
+tags: ["rails"]
 ---
 
 Rails のプラグインである [Exception Notification](http://smartinez87.github.io/exception_notification/) を gem upgrade したらエラーが起きた。

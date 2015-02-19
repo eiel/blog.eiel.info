@@ -3,7 +3,7 @@
 title: "手軽にHaskell できる hawk が楽しい"
 date: 2014-02-14T21:34:00+09:00
 comments: true
-categories: ["haskell"]
+tags: ["haskell"]
 ---
 
 コマンドラインで Haskell のワンライナーっぽいものが使える [hawk](https://github.com/gelisam/hawk) ってのがあるらしくて、awk に似ているから hawk っていうらしい。

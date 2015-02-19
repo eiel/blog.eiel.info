@@ -3,7 +3,7 @@
 title: "セキュリティもみじで空気読めてないLTをしたんだ - すごい Hiroshima で楽しく学ぼう"
 date: 2013-05-23T10:56:00+09:00
 comments: true
-categories: ['勉強会','すごい広島']
+tags: ['勉強会','すごい広島']
 ---
 
 先週の土曜日に[セキュリティもみじ](https://sites.google.com/site/secmomiji/secmomiji24)で 5分の LT をしました。

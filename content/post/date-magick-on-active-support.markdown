@@ -3,7 +3,7 @@
 title: "Active Supportの日付演算ってなかなか不思議。"
 date: 2013-02-07T12:40:00+09:00
 comments: true
-categories: ["ruby","active_support"]
+tags: ["ruby","active_support"]
 ---
 
 昨日の記事がかなり反響がありまして、みなさまありがとうございます。

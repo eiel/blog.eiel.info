@@ -3,7 +3,7 @@
 title: "travisを利用してみる"
 date: 2012-09-21T17:51:00+09:00
 comments: true
-categories: ["travis","CI"]
+tags: ["travis","CI"]
 ---
 
 githubで公開してるリポジトリを継続的インテグレーションを行えるサービスとして [travis](http://travis-ci.org/) というのがあるので、[hiroshimarb-gem](http://travis-ci.org/)で利用してみることにした

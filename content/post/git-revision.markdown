@@ -3,7 +3,7 @@
 title: "Git で現在チェックアウトしているコミットのID"
 date: 2014-09-04T14:57:00+09:00
 comments: true
-categories: ["git"]
+tags: ["git"]
 ---
 
 稀に今チェックアウトしてるところのコミットIDを知りたいときがある。

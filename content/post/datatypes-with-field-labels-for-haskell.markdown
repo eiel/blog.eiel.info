@@ -3,7 +3,7 @@
 title: "Haskell のフィールドラベルをもつデータ型について"
 date: 2014-09-06T09:26:00+09:00
 comments: true
-categories: ["haskell"]
+tags: ["haskell"]
 ---
 
 Haskellのレコード構文というかフィールドラベルをもつデータ型についてなんだけど、苦手意識というか更新の方法を最近までよくしらなくてうまく使えてなかった。

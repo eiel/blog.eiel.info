@@ -3,7 +3,7 @@
 title: "読書メモ 関数プログラミング入門 Haskellで学ぶ原理と技法 1.2 評価"
 date: 2013-01-13T21:47:00+09:00
 comments: true
-categories: ["Haskell","読書メモ","関数プログラミング入門"]
+tags: ["Haskell","読書メモ","関数プログラミング入門"]
 ---
 
 [関数プログラミング入門 Haskell で学ぶ原理と技法](http://www.amazon.co.jp/gp/product/427406896X/ref=as_li_ss_tl?ie=UTF8&camp=247&creative=7399&creativeASIN=427406896X&linkCode=as2&tag=eiel-22) の読書メモです。

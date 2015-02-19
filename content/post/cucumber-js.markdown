@@ -3,7 +3,7 @@
 title: "Cucumber-js を試した。"
 date: 2013-09-03T15:49:00+09:00
 comments: true
-categories: ["cucumber","javascript"]
+tags: ["cucumber","javascript"]
 ---
 
 [広島Webシステム開発勉強会](https://twitter.com/hwebsys) で [Cucumber-js](https://github.com/cucumber/cucumber-js) を試してました。

@@ -3,7 +3,7 @@
 title: "GitHub からの通知が迷惑メールになった - 見ないリポジトリは unwatch しよう"
 date: 2013-11-21T12:11:00+09:00
 comments: true
-categories: ["GitHub","すごい広島"]
+tags: ["GitHub","すごい広島"]
 ---
 
 

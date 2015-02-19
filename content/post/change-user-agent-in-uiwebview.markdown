@@ -3,7 +3,7 @@
 title: "UIWebView の UserAgent を変更した時に気をつけたいたった1つのこと"
 date: 2013-12-10T02:04:00+09:00
 comments: true
-categories: ["iOS"]
+tags: ["iOS"]
 ---
 
 iOS SDK のUIWebView は UserAgent を変更することができます。

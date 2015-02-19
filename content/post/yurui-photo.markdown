@@ -3,7 +3,7 @@
 title: "ぶらりと飲み物を買いにいくついでに写真をとってきた - ゆるい広島 Advent Calendar 2014"
 date: 2014-12-06T00:00:00+09:00
 comments: true
-categories:
+tags:
 ---
 
 [ゆるい広島 Advent Calendar 2014](http://www.adventar.org/calendars/334)の6日目の記事です。

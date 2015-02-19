@@ -3,7 +3,7 @@
 title: "「Github をつかったコミュニティ すごい広島」というタイトルでLTしてきた"
 date: 2013-06-15T19:39:00+09:00
 comments: true
-categories: ["勉強会","すごい広島"]
+tags: ["勉強会","すごい広島"]
 ---
 
 [WEB TOUCH MEETING #58](http://www.webtouchmeeting.com/meeting/2013/06/58web-touch-meeting.html) の LT 枠で[すごい広島](http://great-h.github.io/)について LT をしました。

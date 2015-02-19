@@ -3,7 +3,7 @@
 title: "github-pages Gem というのが用意された - Github Page で使う gem のバージョンをあわせてくれる"
 date: 2013-08-13T00:54:00+09:00
 comments: true
-categories: ["github","jekyll"]
+tags: ["github","jekyll"]
 ---
 
 Github Page は Jekyll プロジェクトを push すれば HTML に変換してくれます。

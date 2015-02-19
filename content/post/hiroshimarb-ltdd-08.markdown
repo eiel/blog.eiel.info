@@ -3,7 +3,7 @@
 title: "LT駆動開発08でHiroshima.rbをふりかえった"
 date: 2014-10-05T10:45:00+09:00
 comments: true
-categories: ["LT駆動"]
+tags: ["LT駆動"]
 ---
 
 [LT駆動開発08](https://github.com/LTDD/Sessions/wiki/LT%E9%A7%86%E5%8B%95%E9%96%8B%E7%99%BA08)で活動が不定期になるHiroshima.rbについてふりかえった。

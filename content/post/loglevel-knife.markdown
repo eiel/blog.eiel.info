@@ -3,7 +3,7 @@
 title: "knife のログレベルの設定"
 date: 2013-12-17T23:46:00+09:00
 comments: true
-categories: ["chef"]
+tags: ["chef"]
 ---
 
 

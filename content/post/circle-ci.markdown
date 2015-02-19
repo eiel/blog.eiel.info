@@ -3,7 +3,7 @@
 title: "Circle CI を試した"
 date: 2013-10-30T11:55:00+09:00
 comments: true
-categories: ["ci", "hwebsys"]
+tags: ["ci", "hwebsys"]
 ---
 
 [2013年10月の広島Webシステム開発勉強会](https://twitter.com/hwebsys)内で[Cicle CI](https://circleci.com) を試していた。

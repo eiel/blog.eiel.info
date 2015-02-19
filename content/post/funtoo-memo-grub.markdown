@@ -3,7 +3,7 @@
 title: "funtooメモ grubの設定"
 date: 2012-06-09T17:59:00+09:00
 comments: true
-categories: [funtoo,grub]
+tags: [funtoo,grub]
 ---
 funtooのメモ
 

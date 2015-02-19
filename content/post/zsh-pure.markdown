@@ -3,7 +3,7 @@
 title: "シンプルなプロンプトを提供する zsh pure を試してみた"
 date: 2013-07-17T21:04:00+09:00
 comments: true
-categories: ["zsh"]
+tags: ["zsh"]
 ---
 
 この記事は [すごい広島 #9](http://great-h.github.io/events/event-009.html) で行なったことです。

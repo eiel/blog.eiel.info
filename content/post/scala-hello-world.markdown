@@ -3,7 +3,7 @@
 title: "Scala 入門しとく"
 date: 2013-08-17T13:48:00+09:00
 comments: true
-categories: ["Scala"]
+tags: ["Scala"]
 ---
 
 [Scala](http://www.scala-lang.org/) はじめるはじめる詐欺をしていたので、はじめることにしました。

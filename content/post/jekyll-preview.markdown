@@ -3,7 +3,7 @@
 title: "Github Page で公開する サイトを ローカルで preview するのに使ってる方法"
 date: 2013-05-29T21:52:00+09:00
 comments: true
-categories: [jekyll, github]
+tags: [jekyll, github]
 ---
 
 [すごい広島 #2](http://great-h.github.io/events/event-002.html) でしたことを書きます。

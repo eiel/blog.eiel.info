@@ -3,7 +3,7 @@
 title: "Rails 3.2.9 で default_scopeに設定してる条件が属性の初期値になるらしい"
 date: 2012-11-16T15:05:00+09:00
 comments: true
-categories: ["rails","ruby","AcativeRecord"]
+tags: ["rails","ruby","AcativeRecord"]
 ---
 
 あるプロジェクトでrails 3.2.9 にアップデートしたら テストが失敗しまくる。そのひとつに ActiveRecordの default_scope を使ってる部分に問題があるとわかった。

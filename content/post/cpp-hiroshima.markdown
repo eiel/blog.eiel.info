@@ -3,7 +3,7 @@
 title: "C++勉強会in広島でオープンセミナー2014@広島の告知を兼ねたLTしてきた"
 date: 2014-01-11T23:54:00+09:00
 comments: true
-categories: ["C++"]
+tags: ["C++"]
 ---
 
 [C++勉強会in広島](http://partake.in/events/5ddde1fe-88b7-4541-9f37-02cf4fa0284c)に参加してLTしてきました。

@@ -3,7 +3,7 @@
 title: "Rails で外部キー制約"
 date: 2013-04-08T01:51:00+09:00
 comments: true
-categories: ["actirerecord","rails","database"]
+tags: ["actirerecord","rails","database"]
 ---
 
 外部キー制約は好きですか？

@@ -3,7 +3,7 @@
 title: "Railsでコントローラのスペックを試行錯誤中"
 date: 2012-08-09T23:42:00+09:00
 comments: true
-categories: [rails,rspec]
+tags: [rails,rspec]
 ---
 
 Rspec書いてますか？最近なかなか荒れ気味ですが、僕はなんだかんだで嫌いじゃないです。

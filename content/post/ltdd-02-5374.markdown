@@ -3,7 +3,7 @@
 title: "hiroshima.5374.jpをつくった話を LT駆動開発 02 でしてきた"
 date: 2014-04-06T00:43:00+09:00
 comments: true
-categories: ["LTDD"]
+tags: ["LTDD"]
 ---
 
 [LT駆動開発 02](https://github.com/LTDD/Sessions/wiki/LT%E9%A7%86%E5%8B%95%E9%96%8B%E7%99%BA02)に参加してきました。

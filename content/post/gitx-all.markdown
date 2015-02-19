@@ -3,7 +3,7 @@
 title: "gitx --all"
 date: 2012-06-13T18:00:00+09:00
 comments: true
-categories: [gitx,git]
+tags: [gitx,git]
 ---
 skypeでgitの説明していたときに `gitxa` って何？と問われた。単なる`gitx --all` のエイリアスです。
 

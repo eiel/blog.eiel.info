@@ -3,7 +3,7 @@
 title: "cucumber で表示した画面がXMLを出力しているか確認する"
 date: 2012-11-07T15:27:00+09:00
 comments: true
-categories: ["rails", "cucumber"]
+tags: ["rails", "cucumber"]
 ---
 
 rspec でマッチャーがあればよいのですが、とりあえず心当たりがなかったので、適当にごまかしました。良いgemがあれば紹介して欲しいです。

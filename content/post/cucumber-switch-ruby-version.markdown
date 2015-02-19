@@ -3,7 +3,7 @@
 title: "cucumber で シナリオを Ruby のバージョンによって実行しなかったり"
 date: 2013-04-11T01:48:00+09:00
 comments: true
-categories: ["cucumber"]
+tags: ["cucumber"]
 ---
 
 どんなにがんばっても ruby 1.8.7 では動かすことができない `cucumber` のシナリオがあって、これを対応した時のメモ。

@@ -3,7 +3,7 @@
 title: "nginxの最新版を Debian squeezeで"
 date: 2012-07-11T14:19:00+09:00
 comments: true
-categories: [nginx,debian,apt]
+tags: [nginx,debian,apt]
 ---
 nginxはいままでソースからビルドしてたんですが、公式でパッケージ配布されてるのでいい加減aptでインストールできるようにしました。特に特殊なこともしてなかったですし。
 

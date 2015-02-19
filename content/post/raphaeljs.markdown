@@ -3,7 +3,7 @@
 title: "Raphaelで遊んでみた。"
 date: 2013-09-11T18:42:00+09:00
 comments: true
-categories: ["javascript","rahaeljs"]
+tags: ["javascript","rahaeljs"]
 ---
 
 [すごい広島 #17](http://great-h.github.io/events/event-17.html) でやったこと。

@@ -3,7 +3,7 @@
 title: "debugger-ruby_core_source に Ruby 1.9.3-p327 のヘッダ追加してみた"
 date: 2012-11-10T16:58:00+09:00
 comments: true
-categories: [ruby]
+tags: [ruby]
 ---
 
 2012/11/17 追記

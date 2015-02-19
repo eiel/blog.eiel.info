@@ -3,7 +3,7 @@
 title: "Rubyのオプション変数というグローバル変数"
 date: 2014-02-03T12:36:00+09:00
 comments: true
-categories: ["ruby"]
+tags: ["ruby"]
 ---
 
 Rails のソースコードを読んでいたら

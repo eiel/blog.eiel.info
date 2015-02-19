@@ -3,7 +3,7 @@
 title: "Gitのソースコードでも読もうかな。準備編 - デバッガ"
 date: 2012-12-22T11:06:00+09:00
 comments: true
-categories: ["git","コードリーディング","gdb"]
+tags: ["git","コードリーディング","gdb"]
 ---
 
 ソースコードよみたいなー。よみたいなーってことで、環境を整えていきたいと思います。[ひらメソッド](http://hira-consulting.com/wiki/index.php?2005_6_23%A5%AB%A1%BC%A5%CD%A5%EB%BA%C2%C3%CC%B2%F1%AD%A1)にも挑戦したい。

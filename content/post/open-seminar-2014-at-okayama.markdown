@@ -3,7 +3,7 @@
 title: "オープンセミナー2014@岡山に参加した。ついでに懇親会で継続することについてLTした。"
 date: 2014-05-19T23:58:00+09:00
 comments: true
-categories: []
+tags: []
 ---
 
 [オープンセミナー2014@岡山](http://okayama.open-seminar.org/)に参加しました。大盛況でした。

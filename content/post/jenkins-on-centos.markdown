@@ -3,7 +3,7 @@
 title: "CentOSにJenkinsを入れてみた"
 date: 2012-09-04T22:25:00+09:00
 comments: true
-categories: [CentOS,Jenkins]
+tags: [CentOS,Jenkins]
 ---
 
 ちょっと前に(だいぶ前?)にCentOSに [Jenkins](http://jenkins-ci.org/) をインストールしてみた。その方法のメモ。

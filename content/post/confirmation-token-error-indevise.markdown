@@ -3,7 +3,7 @@
 title: "Devise で登録時にConfirmation Token が不正な値というエラー"
 date: 2014-02-20T14:00:00+09:00
 comments: true
-categories: ["rails","devise"]
+tags: ["rails","devise"]
 ---
 
 Devise で確認メールで確認してから有効にする機能 Confirmable の機能をつかってたのだけど、トークンが不正というエラーがおきた。

@@ -3,7 +3,7 @@
 title: "そうだ OSC2013 Hiroshima へ行こう"
 date: 2013-10-04T15:15:00+09:00
 comments: true
-categories: ["osc"]
+tags: ["osc"]
 ---
 
 2013年10月6日 (日) に [オープンソースカンファレンス 2013 Hiroshima](http://www.ospn.jp/osc2013-hiroshima/) が開催されます。

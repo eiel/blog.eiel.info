@@ -3,7 +3,7 @@
 title: "Funtoo から Gentoo に戻してみた"
 date: 2013-07-10T19:29:00+09:00
 comments: true
-categories: ["gentoo","funtoo"]
+tags: ["gentoo","funtoo"]
 ---
 
 この記事は [すごい広島 #008](http://great-h.github.io/events/event-008.html) に参加中に書きました。

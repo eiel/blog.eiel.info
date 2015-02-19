@@ -3,7 +3,7 @@
 title: "Mac で使える git mergetool をいろいろ試してみる - Vimdiff2"
 date: 2013-07-03T20:08:00+09:00
 comments: true
-categories: ["git","vim","mac"]
+tags: ["git","vim","mac"]
 ---
 
 [Mac で使える git mergetool をいろいろ試してみる - 準備編](/blog/2013/06/26/git-mergetool/) の続きです。

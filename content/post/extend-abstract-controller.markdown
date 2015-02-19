@@ -3,7 +3,7 @@
 title: "AbstractController を継承して遊ぶ"
 date: 2013-09-04T19:03:00+09:00
 comments: true
-categories: ["Rails","ActionPack"]
+tags: ["Rails","ActionPack"]
 ---
 
 [すごい広島 #16](http://great-h.github.io/events/event-016.html) で遊んだこと

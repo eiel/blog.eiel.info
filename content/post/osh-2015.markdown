@@ -3,7 +3,7 @@
 title: "再・オープンセミナー広島は広島のITエンジニアが集う場所"
 date: 2015-02-06T12:08:00+09:00
 comments: true
-categories: [osh]
+tags: [osh]
 ---
 
 [昨年のオープンセミナー広島](http://osh-web.doorkeeper.jp/events/7534)の実行委員長です。今年は雑務担当です。こんにちは。

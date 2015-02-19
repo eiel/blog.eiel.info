@@ -3,7 +3,7 @@
 title: "AngularJSで遊んだときのメモ"
 date: 2012-07-26T15:58:00+09:00
 comments: true
-categories: [AngularJS,hwebsys]
+tags: [AngularJS,hwebsys]
 ---
 
 [広島ウェブシステム開発勉強会](http://hwebsys.eshima.info/)で、[AngularJS](http://angularjs.org/)で遊んだのでそのメモ。

@@ -3,7 +3,7 @@
 title: "rbenv で Ruby の version を一時的に切り替え"
 date: 2013-04-12T01:25:00+09:00
 comments: true
-categories: ["ruby"]
+tags: ["ruby"]
 ---
 
 rbenv で ruby の version を一時的に切り替えたい場合があります。

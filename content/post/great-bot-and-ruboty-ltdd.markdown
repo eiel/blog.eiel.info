@@ -3,7 +3,7 @@
 title: "LT駆動開発で ruboty の使い方っぽいことを適当に紹介した"
 date: 2014-07-07T17:14:00+09:00
 comments: true
-categories: ["ltdd","ruboty","すごい広島"]
+tags: ["ltdd","ruboty","すごい広島"]
 ---
 
 [LT駆動開発 05](https://github.com/LTDD/Sessions/wiki/LT%E9%A7%86%E5%8B%95%E9%96%8B%E7%99%BA05) でライトニングトークをした。

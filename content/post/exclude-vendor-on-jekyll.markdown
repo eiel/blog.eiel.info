@@ -3,7 +3,7 @@
 title: "Jekyll 使うときは exclude: vendor しとけって話らしい。"
 date: 2014-01-22T02:28:00+09:00
 comments: true
-categories: ["ruby","jekyll","github"]
+tags: ["ruby","jekyll","github"]
 ---
 
 素の[Jekyll](http://jekyllrb.com/) なんて使う人はあまりいないと思うけど一応書いておこう。

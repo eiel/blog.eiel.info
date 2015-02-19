@@ -3,13 +3,13 @@
 title: "Github Pages について整理しておきます"
 date: 2013-02-17T22:39:00+09:00
 comments: true
-categories: ["github"]
+tags: ["github"]
 ---
 
 Git の練習を兼ねて Github できることといえばひとつとして [Github Pages](http://pages.github.com/) があります。
 ウェブサイトを Git で管理して、Github へ プッシュすれば公開できるというものです。
 
-使い方などは [公式のヘルプ](https://help.github.com/categories/20/articles)に書かれていますが自分が Github Pages を使おうとした時に知りたかったことを整理しておきます。
+使い方などは [公式のヘルプ](https://help.github.com/tags/20/articles)に書かれていますが自分が Github Pages を使おうとした時に知りたかったことを整理しておきます。
 細かいことについてはあまり書きません。
 
 * Github Pages の特徴

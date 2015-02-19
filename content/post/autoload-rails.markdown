@@ -3,7 +3,7 @@
 title: "Rails の自動読み込みの話"
 date: 2013-09-07T22:38:00+09:00
 comments: true
-categories: ["rails","ActiveSupport"]
+tags: ["rails","ActiveSupport"]
 ---
 
 [広島Ruby勉強会 #034](http://hiroshimarb.github.io/blog/2013/09/07/hiroshimarb-34/)で使用したネタの文に書きなおしました。

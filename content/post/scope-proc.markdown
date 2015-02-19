@@ -3,7 +3,7 @@
 title: "ActiveRecord のスコープを書くときは proc を使えよって話"
 date: 2014-01-09T16:42:00+09:00
 comments: true
-categories: ["rails"]
+tags: ["rails"]
 ---
 
 ActiveRecord で scope を定義する時は、普通は以下のように書きますよね。

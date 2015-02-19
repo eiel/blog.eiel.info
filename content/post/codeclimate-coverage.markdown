@@ -3,7 +3,7 @@
 title: "CodeClimate のカバレッジは SimpleCovの設定がしてあるところだとうまくいかない"
 date: 2014-01-20T14:42:00+09:00
 comments: true
-categories: ["ruby"]
+tags: ["ruby"]
 ---
 
 [CodeClimate](https://codeclimate.com) で、課金して利用しているとカバレッジを取得する機能がある。

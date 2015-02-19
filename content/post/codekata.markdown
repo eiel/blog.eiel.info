@@ -3,7 +3,7 @@
 title: "よりよい開発者になるために CodeKata"
 date: 2013-02-13T16:08:00+09:00
 comments: true
-categories: ["codekata","Haskell"]
+tags: ["codekata","Haskell"]
 ---
 
 github の News Feed みてたら codekata というのがあって、なんだっけと思いつつ調べたら

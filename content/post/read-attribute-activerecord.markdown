@@ -3,7 +3,7 @@
 title: "read_attributeの存在を知らなかった、死にたい - rails"
 date: 2012-12-17T16:57:00+09:00
 comments: true
-categories: ["rails","ruby","activerecord"]
+tags: ["rails","ruby","activerecord"]
 ---
 
 Railsの ActiveRecordで レコードの属性にアクセスする際は動的に生成されたメソッドを使いますが、そのようなメソッドを上書きしている場合、値に直接アクセスする必要があります。このような属性情報は `@attributes` に保存されています。

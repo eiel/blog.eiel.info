@@ -3,7 +3,7 @@
 title: "広島Git勉強会 - 番外編 Github Flow してみる"
 date: 2013-06-02T21:14:00+09:00
 comments: true
-categories: [git]
+tags: [git]
 ---
 
 書きわすれたことがあった。

@@ -3,7 +3,7 @@
 title: "ruby-debugからpryを起動する"
 date: 2012-07-05T14:44:00+09:00
 comments: true
-categories: [ruby,debug,pry]
+tags: [ruby,debug,pry]
 ---
 [Pry](https://github.com/pry/pry)便利です。
 

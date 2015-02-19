@@ -3,7 +3,7 @@
 title: "すごいHirohsimaの本について、OSC2014とWTM71で紹介した"
 date: 2014-09-21T10:50:00+09:00
 comments: true
-categories: ["すごい広島","OSC","WTM"]
+tags: ["すごい広島","OSC","WTM"]
 ---
 
 [すごい広島](http://great-h.github.io/)を紹介するための書籍(通称、薄い本)である、すごいHiroshimaの本というものを作成しました。

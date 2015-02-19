@@ -3,7 +3,7 @@
 title: "Microdata を使ってイベント情報をページに埋め込む。"
 date: 2013-06-23T23:44:00+09:00
 comments: true
-categories: [microdata]
+tags: [microdata]
 ---
 
 この記事は [すごい広島 #005](http://great-h.github.io/events/event-005.html) で調べたこととかです。その2。

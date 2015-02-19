@@ -3,7 +3,7 @@
 title: "ruby 2.0.0-preview2 をいれて rails起動してみた"
 date: 2012-12-10T13:49:00+09:00
 comments: true
-categories: ["ruby", "rails"]
+tags: ["ruby", "rails"]
 ---
 
 [ruby 2.0.0-preview2](http://blade.nagaokaut.ac.jp/cgi-bin/scat.rb/ruby/ruby-core/50443) が出てるのでビルドして rails を起動してみた。

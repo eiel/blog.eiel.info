@@ -3,7 +3,7 @@
 title: "LT駆動開発03で「S3にスライドを保存することにした」という発表者をしてきた。"
 date: 2014-05-03T23:29:00+09:00
 comments: true
-categories: ["LT駆動","S3","Haskell"]
+tags: ["LT駆動","S3","Haskell"]
 ---
 
 [LT駆動開発03](https://github.com/LTDD/Sessions/wiki/LT%E9%A7%86%E5%8B%95%E9%96%8B%E7%99%BA03) でLTをしてきました。

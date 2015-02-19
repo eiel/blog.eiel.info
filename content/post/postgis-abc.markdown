@@ -3,7 +3,7 @@
 title: "PostGISを試してみる"
 date: 2014-12-11T13:54:00+09:00
 comments: true
-categories: ["postgres"]
+tags: ["postgres"]
 ---
 
 緯度経度って奴をDBにいれる。

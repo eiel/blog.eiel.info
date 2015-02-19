@@ -3,7 +3,7 @@
 title: "「私はRSpecでテストをこんな感じで書いてる」に少し便乗してみる"
 date: 2012-08-21T19:51:00+09:00
 comments: true
-categories: [ruby,rspec]
+tags: [ruby,rspec]
 ---
 
 [私はRSpecでテストをこんな感じで書いてる](http://d.hatena.ne.jp/sinsoku/20120820/1345470914)という良エントリがあったので少し便乗してみます。

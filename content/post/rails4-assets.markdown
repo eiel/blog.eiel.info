@@ -3,7 +3,7 @@
 title: "rails4 で Asset の生成したいファイルの追加がうまいこといかなかった。"
 date: 2013-05-04T00:44:00+09:00
 comments: true
-categories: [rails]
+tags: [rails]
 ---
 
 Rails4 を試していた。

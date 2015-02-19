@@ -3,7 +3,7 @@
 title: "gitで公開されてるクックブックに依存している時のmetadata"
 date: 2014-12-24T12:32:00+09:00
 comments: true
-categories: ["chef"]
+tags: ["chef"]
 ---
 
 ふつうに書くしかない。

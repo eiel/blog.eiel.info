@@ -3,7 +3,7 @@
 title: "ActionView を単体で使ってみる"
 date: 2014-07-18T18:35:00+09:00
 comments: true
-categories: ["rails","actionview","ruby"]
+tags: ["rails","actionview","ruby"]
 ---
 
 誰が興味があるのか謎ですが、[ActionView](https://github.com/rails/rails/tree/v4.1.4/actionview) を単体で使ってみようと思います。

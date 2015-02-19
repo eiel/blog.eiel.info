@@ -3,7 +3,7 @@
 title: "Rubyで次の水曜日の18時を取得する"
 date: 2013-10-31T16:45:00+09:00
 comments: true
-categories: ['active_support']
+tags: ['active_support']
 ---
 
 日付処理って意外と面倒である。次の水曜日の18時を取りたい。

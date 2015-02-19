@@ -3,7 +3,7 @@
 title: "cleditor の内容を javascirptで変更する in Cucumber"
 date: 2013-05-31T19:20:00+09:00
 comments: true
-categories: ['cleditor','cucumber']
+tags: ['cleditor','cucumber']
 ---
 
 Cucumber の @javascript で実行しているシナリオに ]cleditor](https://github.com/cleditor/cleditor/blob/master/jquery.cleditor.js) という WYGSYG が利用されていて 普通に値を代入しただけだと反映されない問題に直面した。

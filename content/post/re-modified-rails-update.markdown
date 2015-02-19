@@ -3,7 +3,7 @@
 title: "re: Rails update時に値を変更して更新したい"
 date: 2014-09-24T23:23:00+09:00
 comments: true
-categories: ["rails"]
+tags: ["rails"]
 ---
 
 友人のブログ記事へのレスです。

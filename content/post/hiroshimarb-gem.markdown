@@ -3,7 +3,7 @@
 title: "勢いでhiroshimarbというgemを作った。反省する気なんてあんまりない。"
 date: 2012-09-02T00:20:00+09:00
 comments: true
-categories: [ruby]
+tags: [ruby]
 ---
 
 # あらまし

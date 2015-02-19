@@ -3,7 +3,7 @@
 title: "cucumber で PhantomJS を使う"
 date: 2013-05-23T01:59:00+09:00
 comments: true
-categories: [cucumber,phantomjs,poltergeist,ci]
+tags: [cucumber,phantomjs,poltergeist,ci]
 ---
 
 [Cucumber](http://cukes.info/) で使うブラウザを [PhantomJS](http://phantomjs.org/) にしたい。

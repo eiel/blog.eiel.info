@@ -3,7 +3,7 @@
 title: "nodejsのモジュールをブラウザで使えるようにするbrowserifyでちょっと遊んだ"
 date: 2014-10-30T11:13:00+09:00
 comments: true
-categories: ["nodejs","javascript","browserify"]
+tags: ["nodejs","javascript","browserify"]
 ---
 
 [Browserify](http://browserify.org/)で少し遊んだ。

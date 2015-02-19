@@ -3,7 +3,7 @@
 title: "ruby-2.0.0をビルドしてみた on rbenv"
 date: 2012-11-07T00:48:00+09:00
 comments: true
-categories: ["ruby"]
+tags: ["ruby"]
 ---
 
 Ruby 2.0.0 preview1 の話題をちらほら見かけますし、 heroku さんが対応したらしいので遊びのプロジェクトで使おうと思いまして、buildしてみました。

@@ -3,7 +3,7 @@
 title: "ActionView 単体で slim を使ってみる"
 date: 2014-07-28T15:52:00+09:00
 comments: true
-categories: ["actionview","rails","slim"]
+tags: ["actionview","rails","slim"]
 ---
 
 「[ActionView を単体で使ってみる](/blog/2014/07/18/action-view/)」というのを書いたので、ついでにいろいろ試してみる。その1。

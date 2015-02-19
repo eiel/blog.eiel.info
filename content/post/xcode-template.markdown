@@ -3,7 +3,7 @@
 title: "Xcodeのテンプレート"
 date: 2012-06-18T18:03:00+09:00
 comments: true
-categories: [xcode,ios]
+tags: [xcode,ios]
 ---
 Xcodeが genarate する templateですが、
 いつもかきかえる部分があるのでなんとかしたいなーっておもっててしらべたら

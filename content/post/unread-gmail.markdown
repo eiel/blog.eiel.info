@@ -3,7 +3,7 @@
 title: "gmailで未読メールの探し方"
 date: 2012-05-02T16:58:00+09:00
 comments: true
-categories: [gmail]
+tags: [gmail]
 ---
 gmailで未読メールをさがすには、検索ボックスで、
 

@@ -3,7 +3,7 @@
 title: "プログラムミングにおけるモナドと圏論との対応。"
 date: 2012-06-07T17:57:00+09:00
 comments: true
-categories: [monad,haskell]
+tags: [monad,haskell]
 ---
 説明するわけではないです。メモです。
 

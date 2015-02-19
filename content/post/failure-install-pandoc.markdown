@@ -3,7 +3,7 @@
 title: "pandocのインストールに失敗する"
 date: 2014-01-06T15:45:00+09:00
 comments: true
-categories: ["hakyll","pandoc"]
+tags: ["hakyll","pandoc"]
 ---
 
 [hakyll](http://jaspervdj.be/hakyll/) のアップデートしてたら pandoc のビルドにこけた。

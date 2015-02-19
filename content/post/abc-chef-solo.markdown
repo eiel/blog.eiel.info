@@ -3,7 +3,7 @@
 title: "やっと Chef Solo はじめた"
 date: 2013-11-13T18:28:00+09:00
 comments: true
-categories: ["chef"]
+tags: ["chef"]
 ---
 
 [すごい広島 #26](http://great-h.github.io/events/event-026.html) にて、書いている。

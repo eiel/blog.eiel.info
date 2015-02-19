@@ -3,7 +3,7 @@
 title: "GitHub で SSH 接続できなくなった。SSH をつかった場合に高速化する設定が原因だった。"
 date: 2013-11-09T14:05:00+09:00
 comments: true
-categories: ["GitHub"]
+tags: ["GitHub"]
 ---
 
 さっき、GitHub に push しようとしたら下記のエラーが発生した。

@@ -3,7 +3,7 @@
 title: "LT駆動開発09で「Vagrantを使ったa-blog CMSの環境で思ったことを話した"
 date: 2014-12-08T15:26:00+09:00
 comments: true
-categories: ["ltdd","ablog"]
+tags: ["ltdd","ablog"]
 ---
 
 [LT駆動開発09](https://github.com/LTDD/Sessions/wiki/LT%E9%A7%86%E5%8B%95%E9%96%8B%E7%99%BA09)でLTをした。

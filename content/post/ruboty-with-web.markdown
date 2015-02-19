@@ -3,7 +3,7 @@
 title: "rackup で ruboty"
 date: 2014-06-08T10:31:00+09:00
 comments: true
-categories: ["ネタ","ruboty"]
+tags: ["ネタ","ruboty"]
 ---
 
 [ruboty](http://r7kamura.hatenablog.com/entry/2014/05/31/190240) を heroku で動かすついでに web アプリケーションとして扱いたい。

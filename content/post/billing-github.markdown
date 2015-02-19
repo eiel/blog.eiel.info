@@ -3,7 +3,7 @@
 title: "GitHub に課金した"
 date: 2013-10-03T16:48:00+09:00
 comments: true
-categories: ["github"]
+tags: ["github"]
 ---
 
 [GitHub](https://github.com/) に課金した。月7ドル。

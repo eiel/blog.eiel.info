@@ -3,7 +3,7 @@
 title: "オープンセミナー広島は広島のITエンジニアが集う場所"
 date: 2014-01-04T13:24:00+09:00
 comments: true
-categories: ["osh","広島"]
+tags: ["osh","広島"]
 ---
 
 [オープンセミナー2014@広島](http://osh-2014.github.io/)の実行委員長です。こんにちは。

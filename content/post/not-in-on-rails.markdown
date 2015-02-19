@@ -3,7 +3,7 @@
 title: "Ruby on Rails で NOT IN な SQL をかく。"
 date: 2013-07-20T15:53:00+09:00
 comments: true
-categories: ["rails4","rails3","rails", "arel"]
+tags: ["rails4","rails3","rails", "arel"]
 ---
 
 [Rails 4 で NOT な条件をもつ WHERE 句 が非常に書きやすくなりました。](http://guides.rubyonrails.org/active_record_querying.html#not-conditions)

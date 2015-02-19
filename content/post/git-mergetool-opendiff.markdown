@@ -3,7 +3,7 @@
 title: "Mac で使える git mergetool をいろいろ試してみる - OpenDiff"
 date: 2013-06-26T21:10:00+09:00
 comments: true
-categories: ["git","mac","opendiff"]
+tags: ["git","mac","opendiff"]
 ---
 
 [Mac で使える git mergetool をいろいろ試してみる - 準備編](/blog/2013/06/26/git-mergetool/) の続きです。

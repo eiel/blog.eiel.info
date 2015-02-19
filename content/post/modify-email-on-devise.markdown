@@ -3,7 +3,7 @@
 title: "Devise で email 変更する。"
 date: 2012-12-30T14:41:00+09:00
 comments: true
-categories: ["rails","devise","ruby"]
+tags: ["rails","devise","ruby"]
 ---
 
 Railsの plugin で 認証を行なう [devise](https://github.com/plataformatec/devise) という gem があります。

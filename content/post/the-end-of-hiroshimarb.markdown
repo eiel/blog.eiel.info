@@ -3,7 +3,7 @@
 title: "hiroshima.rbを休止することに決めた話"
 date: 2014-09-29T06:17:00+09:00
 comments: true
-categories: []
+tags: []
 ---
 
 [Hiroshima.rb](http://hiroshimarb.github.io/)の活動を休止しようと思います。

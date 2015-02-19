@@ -3,7 +3,7 @@
 title: "hubot で起動しているウェブサーバを経由して idobata へ投稿してみる"
 date: 2014-05-27T16:24:00+09:00
 comments: true
-categories: ["hubot","nodejs","heroku","idobata"]
+tags: ["hubot","nodejs","heroku","idobata"]
 ---
 
 [hubot](https://hubot.github.com/) をつかって [idobata](https://idobata.io/) 用のBOTを作っていた。

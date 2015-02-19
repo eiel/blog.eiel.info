@@ -3,7 +3,7 @@
 title: "すごい広島 x IBM - クラウド交流会でゆるくすごい広島の紹介した。 - ゆるい広島 Advent Calendar 2014"
 date: 2014-12-03T00:00:00+09:00
 comments: true
-categories: ["すごい広島"]
+tags: ["すごい広島"]
 ---
 
 一応、[ゆるい広島 Advent Calendar 2014](http://www.adventar.org/calendars/334)の三日目の記事になります。

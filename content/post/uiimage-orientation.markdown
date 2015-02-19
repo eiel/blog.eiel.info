@@ -3,7 +3,7 @@
 title: "UIImage#initWithCGImage:scale:orientation で回転させる話"
 date: 2014-01-22T02:11:00+09:00
 comments: true
-categories: ["ios"]
+tags: ["ios"]
 ---
 
 iOS な作業をしていた。

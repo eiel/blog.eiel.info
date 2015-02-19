@@ -3,7 +3,7 @@
 title: "rbenv install したときに 一緒に bundler をインストールする"
 date: 2013-04-12T02:33:00+09:00
 comments: true
-categories: ["ruby"]
+tags: ["ruby"]
 ---
 
 `rbenv install` したときに bundler ぐらい自動で入って欲しいですよね。

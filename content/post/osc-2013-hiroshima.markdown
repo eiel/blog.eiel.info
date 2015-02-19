@@ -3,7 +3,7 @@
 title: "OSC 2013 HIROSHIMA に参加した。"
 date: 2013-10-06T23:53:00+09:00
 comments: true
-categories: ["osc","広島","ruby","すごい広島"]
+tags: ["osc","広島","ruby","すごい広島"]
 ---
 
 [OSC 2013 HIROSHIMA](http://www.ospn.jp/osc2013-hiroshima/) に参加しました。

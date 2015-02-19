@@ -3,7 +3,7 @@
 title: "「数学文章作法 基礎編」 が心に残り過ぎて、しばらく持ち歩きたい。"
 date: 2013-04-16T02:22:00+09:00
 comments: true
-categories: ["書評"]
+tags: ["書評"]
 ---
 
 [数学文章作法 基礎編](http://www.amazon.co.jp/gp/product/448009525X?ie=UTF8&camp=1207&creative=8411&creativeASIN=448009525X&linkCode=shr&tag=eiel-22&qid=1366046861&sr=8-1&keywords=%E6%95%B0%E5%AD%A6%E6%96%87%E7%AB%A0%E4%BD%9C%E6%B3%95) 読みました。

@@ -3,7 +3,7 @@
 title: "Jekyll を使ったGithub Pages で関数呼び出し的なことをする"
 date: 2013-06-19T21:32:00+09:00
 comments: true
-categories: ["github","jekyll","liquid"]
+tags: ["github","jekyll","liquid"]
 ---
 
 この記事は [すごい広島 #005](http://great-h.github.io/events/event-005.html) で試したことです。

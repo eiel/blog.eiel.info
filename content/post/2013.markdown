@@ -3,7 +3,7 @@
 title: "2013年のふりかえりをする"
 date: 2013-12-25T19:42:00+09:00
 comments: true
-categories:
+tags:
 ---
 
 2013年も残り1週間なのでふりかえっておいて来年の目標を考える準備をする。
@@ -12,7 +12,7 @@ categories:
 
 * [WTM-summary](https://github.com/eiel/WTM-summary)を作るustをした気がする。そういえば放置されている。はよ完成させたい。
 * [オンラインで Auto Layout の勉強会をした](http://blog.eiel.info/blog/2013/01/13/ios-autolayout/)
-* [関数プログラミング入門 Haskellで学ぶ原理と技法の読書メモ](http://blog.eiel.info/blog/categories/guan-shu-puroguraminguru-men/)を残したりしてみた。一章で終わってるので続きをしたい。
+* [関数プログラミング入門 Haskellで学ぶ原理と技法の読書メモ](http://blog.eiel.info/blog/tags/guan-shu-puroguraminguru-men/)を残したりしてみた。一章で終わってるので続きをしたい。
 * [GitHub スパム判定される事故がおきた](http://blog.eiel.info/blog/2013/01/21/github-spam/)
 
 ### 2月

@@ -3,7 +3,7 @@
 title: "LT駆動開発で UIDynamics を利用した万華鏡アプリを紹介した"
 date: 2014-08-02T12:00:00+09:00
 comments: true
-categories: ["LT駆動","swift","iOS","A8D"]
+tags: ["LT駆動","swift","iOS","A8D"]
 ---
 
 [A8D:2](https://www.facebook.com/events/321060364724219/) というイベントが2014年8月3日に行なわれます。明日じゃねーか。

@@ -3,7 +3,7 @@
 title: "Mac で使える git mergetool をいろいろ試してみる - Araxis"
 date: 2013-07-10T01:54:00+09:00
 comments: true
-categories: ["git","mac","araxis"]
+tags: ["git","mac","araxis"]
 ---
 
 [Mac で使える git mergetool をいろいろ試してみる - 準備編](/blog/2013/06/26/git-mergetool/) の続きです。

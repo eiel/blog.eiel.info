@@ -3,7 +3,7 @@
 title: "Github の Feed が溜りすぎてやばい。ついでに気になるのをメモっとく - すごい広島 010"
 date: 2013-07-24T19:18:00+09:00
 comments: true
-categories: ["Github"]
+tags: ["Github"]
 ---
 
  この記事は [すごい広島 #010](http://great-h.github.io/events/event-010.html) でやったこと。

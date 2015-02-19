@@ -3,7 +3,7 @@
 title: "scalaz に入門する"
 date: 2013-08-23T23:06:00+09:00
 comments: true
-categories: ["scala","scalaz"]
+tags: ["scala","scalaz"]
 ---
 
 Scalaz をおすすめされた。

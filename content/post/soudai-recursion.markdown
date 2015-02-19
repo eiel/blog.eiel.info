@@ -3,7 +3,7 @@
 title: "@soudai1025 がFizzBuzzのエントリで再帰についてかいてた。なんか違和感を感じた。"
 date: 2013-01-27T01:05:00+09:00
 comments: true
-categories: ["python"]
+tags: ["python"]
 ---
 
 [@soudai1025](http://twitter.com/soudai1025) が書いた[ブログ記事にPythonでFizzBuzzとかしてみた](http://soudai1025.blogspot.jp/2013/01/pythonfizzbuzz.html?spref=fb)というエントリーがあって、まーいろいろ、[あって突っ込みをいれました。](http://blog.eiel.info/blog/2013/01/26/soudai-fizzbuzz/)

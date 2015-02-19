@@ -3,7 +3,7 @@
 title: "Capybaraでtitleタグの内容が取得できなくなってしまった。"
 date: 2012-11-16T11:07:00+09:00
 comments: true
-categories: ["ruby","capybara","cucumber","rspec"]
+tags: ["ruby","capybara","cucumber","rspec"]
 ---
 
 [Capybara](https://github.com/jnicklas/capybara)を2.0にしたら動かなくなった [Cucumber](http://cukes.info/) の step がありました。titleタグ のtextをとる部分。visible でない要素のtextは取得できなくなったんでしょうか。

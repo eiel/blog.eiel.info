@@ -3,7 +3,7 @@
 title: "Mac で使える git mergetool をいろいろ試してみる - 準備編"
 date: 2013-06-26T19:08:00+09:00
 comments: true
-categories: ["git","Mac"]
+tags: ["git","Mac"]
 ---
 
 この記事は [すごい広島 #6](http://great-h.github.io/events/event-006.html) での活動の一部です。

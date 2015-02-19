@@ -3,7 +3,7 @@
 title: "CucumberとTurnipとSpinachと。"
 date: 2014-05-01T01:37:00+09:00
 comments: true
-categories: ["ruby","cucumber"]
+tags: ["ruby","cucumber"]
 ---
 
 最近 spinach というライブラリがあることを知って Cucumber や Turnip と同じようなものだということはわかっていたのですが、ちゃんと調べてみることにした。

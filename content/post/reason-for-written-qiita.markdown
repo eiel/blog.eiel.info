@@ -3,7 +3,7 @@
 title: "Oiitaと技術系ブログを書き分けることにした理由"
 date: 2014-12-24T18:35:00+09:00
 comments: true
-categories: ["qiita"]
+tags: ["qiita"]
 ---
 
 [Qiita](http://qiita.com/)をどのように使うのか迷っていたのだけど、答えが出たのでQiitaも使うことにした。

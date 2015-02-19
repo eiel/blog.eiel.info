@@ -3,7 +3,7 @@
 title: "Cucumber の Capybara で 複数の同じ名前のリンクに対応するステップ"
 date: 2013-01-27T00:12:00+09:00
 comments: true
-categories: ["rails","cucumber","capybara"]
+tags: ["rails","cucumber","capybara"]
 ---
 
 Cucumber のステップで

@@ -3,7 +3,7 @@
 title: "RubyでFacebookのコメントに写真を投稿する"
 date: 2014-09-28T12:44:00+09:00
 comments: true
-categories: ["ruby","facebook","api"]
+tags: ["ruby","facebook","api"]
 ---
 
 FacebookのGraph APIをさわった。コメントを自動でしたかったからだ。

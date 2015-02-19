@@ -3,7 +3,7 @@
 title: "もっと楽ができた。bundle init で作成したプロジェクトの rake task"
 date: 2012-11-27T00:23:00+09:00
 comments: true
-categories: ["ruby","bundle"]
+tags: ["ruby","bundle"]
 ---
 
 以前 [勢いでhiroshimarbというgemを作った。反省する気なんてあんまりない。](/blog/2012/09/02/hiroshimarb-gem/)という記事で gem の リリースをする方法を書いたのですが、

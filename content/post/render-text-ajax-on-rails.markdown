@@ -3,7 +3,7 @@
 title: "Rails で ajax をちょっと実験するときに `render text:` すると コールバックしてこない。 "
 date: 2013-04-03T19:49:00+09:00
 comments: true
-categories: ["ruby","rails","ajax"]
+tags: ["ruby","rails","ajax"]
 ---
 
 サンプルコードがなくて申し訳ないです。

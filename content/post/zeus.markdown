@@ -2,7 +2,7 @@
 title: "Railsによる開発にはzeusが新たな定番になりそう。"
 date: 2012-10-13T11:52:00+09:00
 comments: true
-categories: [Rails,zeus]
+tags: [Rails,zeus]
 ---
 
 `rails c` や `rake spec` ってすごく時間がかかる。それをできるだけ早くするプロダクトはいままでにもいろいろありました。`rails-sh`とか`spork`とか。

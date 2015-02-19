@@ -3,7 +3,7 @@
 title: "今後のiOSアプリケーションのために Auto Layout を学んだ - 内容編"
 date: 2013-01-13T01:17:00+09:00
 comments: true
-categories: ["iOS","AutoLayout"]
+tags: ["iOS","AutoLayout"]
 ---
 
 [今後のiOSアプリケーションのために Auto Layout を学んだ - 準備編](blog/2013/01/13/ios-autolayout/) につづき勉強した内容をまとめていきたいと思います。

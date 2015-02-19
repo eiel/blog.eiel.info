@@ -3,7 +3,7 @@
 title: "すごい広島のサイトを sitespec に変えてみた"
 date: 2014-02-19T18:43:00+09:00
 comments: true
-categories: ["すごい広島","sitespec"]
+tags: ["すごい広島","sitespec"]
 ---
 
 [すごい広島 #40](http://great-h.github.io/events/event-040.html) で書いてる。

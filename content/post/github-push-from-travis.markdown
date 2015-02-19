@@ -3,7 +3,7 @@
 title: "Travis-CI でコミットして GitHub にプッシュする - 公開鍵認証を利用してみる"
 date: 2014-02-18T20:25:00+09:00
 comments: true
-categories: ["github"]
+tags: ["github"]
 ---
 
 静的サイトジェネレータとGitHub Pagesを使っていると、Travis-CIでHTMLを生成してコミットを行い、masterを自動で更新して欲しいですね。

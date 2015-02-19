@@ -3,7 +3,7 @@
 title: "iOS で Digest認証してみる。 - AFNetworking"
 date: 2013-03-20T02:20:00+09:00
 comments: true
-categories: ["iOS","ruby","rack"]
+tags: ["iOS","ruby","rack"]
 ---
 
 iOS で Digest認証するコードを書きました。

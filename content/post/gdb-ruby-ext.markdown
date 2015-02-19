@@ -3,7 +3,7 @@
 title: "Rubyの拡張ライブラリをデバッグしてみた。"
 date: 2013-01-31T16:26:00+09:00
 comments: true
-categories: ["ruby"]
+tags: ["ruby"]
 ---
 
 結論から言うと解決していないんだけど、学んだことをメモしておきます。

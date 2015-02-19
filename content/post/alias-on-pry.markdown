@@ -3,7 +3,7 @@
 title: "Pryでエイリアスを作成する"
 date: 2012-08-04T22:03:00+09:00
 comments: true
-categories: [ruby,pry]
+tags: [ruby,pry]
 ---
 
 [pry](http://pryrepl.org)便利ですね。

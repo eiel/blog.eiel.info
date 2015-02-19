@@ -3,7 +3,7 @@
 title: "Ruby の とあるクラスの実装がどこにあるかわからない時の方法 - コードリーディング"
 date: 2013-04-03T19:34:00+09:00
 comments: true
-categories: ["ruby", "gentoo", "emacs"]
+tags: ["ruby", "gentoo", "emacs"]
 ---
 
 [広島Ruby勉強会](http://hiroshimarb.github.com/blog/2013/04/06/hiroshimarb-31/) のネタ探しをしていて、「実装見てなにか面白いネタないかなー。」

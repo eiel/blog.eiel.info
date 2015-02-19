@@ -3,7 +3,7 @@
 title: "Dart で遊んだ"
 date: 2013-11-27T20:32:00+09:00
 comments: true
-categories: ["dart"]
+tags: ["dart"]
 ---
 
 [Dart](https://www.dartlang.org) の 1.0 がリリースされたらしい。

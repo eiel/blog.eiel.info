@@ -3,7 +3,7 @@
 title: "Mac で使える git mergetool をいろいろ試してみる - tkdiff"
 date: 2013-07-03T21:07:00+09:00
 comments: true
-categories: ["git","tkdiff","mac"]
+tags: ["git","tkdiff","mac"]
 ---
 
 [Mac で使える git mergetool をいろいろ試してみる - 準備編](/blog/2013/06/26/git-mergetool/) の続きです。

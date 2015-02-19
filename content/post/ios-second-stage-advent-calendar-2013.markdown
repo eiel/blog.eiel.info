@@ -3,7 +3,7 @@
 title: "設定画面で表示する値をアプリ側で設定する - iOS Second Stage Advent Calendar 2013"
 date: 2013-12-19T00:00:00+09:00
 comments: true
-categories: ["ios"]
+tags: ["ios"]
 ---
 
 この記事は[iOS Second Stage Advent Calendar 2013](http://qiita.com/advent-calendar/2013/ios-2)の19日目の記事です。

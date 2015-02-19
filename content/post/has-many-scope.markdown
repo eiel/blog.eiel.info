@@ -3,7 +3,7 @@
 title: "ActiveRecord の has_many で生成されるメソッドってActiveRecord::Relationに変換できる配列なんですね。"
 date: 2013-01-25T00:34:00+09:00
 comments: true
-categories: ["rails","ActiveRecord","ruby"]
+tags: ["rails","ActiveRecord","ruby"]
 ---
 
 タイトルのとおりなんですが、`Article`と`Comment` とかあったりして、ちゃんと設定をしておくと `article.comments` とやると `あるArticle`に紐づいている`Comment`がとってこれる機能です。

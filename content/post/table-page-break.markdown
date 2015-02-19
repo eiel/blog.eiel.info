@@ -3,7 +3,7 @@
 title: "HTMLを印刷時 表の途中で改ページを防ぐ"
 date: 2012-11-22T09:49:00+09:00
 comments: true
-categories: ["HTML","CSS"]
+tags: ["HTML","CSS"]
 ---
 
 印刷用のページってどうやって作るのがいいんだろう? PDF? HTMLでもいいの？

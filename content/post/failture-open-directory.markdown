@@ -3,7 +3,7 @@
 title: "Macで open . が失敗する"
 date: 2014-10-28T14:27:00+09:00
 comments: true
-categories: ["tmux","mac"]
+tags: ["tmux","mac"]
 ---
 
 `open .`をしようとしたら `LSOpenURLsWithRole() failed`が発生した。

@@ -3,7 +3,7 @@
 title: "cmigemoがインストールできない - openlab.ring.gr.jp が死んでるっぽい"
 date: 2014-01-09T02:12:00+09:00
 comments: true
-categories: ["migemo","skk"]
+tags: ["migemo","skk"]
 ---
 
 Twitter に書いてもあまり反応がないので、blogにでも書いとくとなんとかなるかもしれないのでかいておくことにする。

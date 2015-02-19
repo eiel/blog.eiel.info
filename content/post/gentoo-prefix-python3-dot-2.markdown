@@ -3,7 +3,7 @@
 title: "Gentoo Prefix で python3.2 がないって言われてインストールできない"
 date: 2013-03-06T14:08:00+09:00
 comments: true
-categories: ["gentoo"]
+tags: ["gentoo"]
 ---
 
 いつのまにやら Gentoo Prefix が python 3.2 を入れようとするのだけど、 python 3.2 の ebuild はありません。

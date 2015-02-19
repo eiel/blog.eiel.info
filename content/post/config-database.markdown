@@ -3,7 +3,7 @@
 title: "config/database.yml の情報にアクセスする。"
 date: 2013-10-26T00:34:00+09:00
 comments: true
-categories: [rails]
+tags: [rails]
 ---
 
 Rails の config/database.yml の情報にアクセスしたかった。

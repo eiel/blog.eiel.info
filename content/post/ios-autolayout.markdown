@@ -3,7 +3,7 @@
 title: "今後のiOSアプリケーションのために Auto Layout を学んだ - 方法編"
 date: 2013-01-13T00:50:00+09:00
 comments: true
-categories: ["オンライン勉強会"]
+tags: ["オンライン勉強会"]
 ---
 
 12月29日に [@mako_wis](https://twitter.com/mako_wis) と [@NeXtSTTEP2OSX](https://twitter.com/NeXTSTEP2OSX) の中の人の Auto Layoutの勉強会をした。

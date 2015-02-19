@@ -3,7 +3,7 @@
 title: "iOSでFacebookAPIへのアクセス"
 date: 2012-05-11T17:30:00+09:00
 comments: true
-categories: [ios,facebook,api]
+tags: [ios,facebook,api]
 ---
 最小限のサンプルを作成してみました。
 

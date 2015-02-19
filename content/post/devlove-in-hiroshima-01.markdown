@@ -3,7 +3,7 @@
 title: "DevLOVE広島　第一回（夏の陣） でエンジニアリングの楽しさについて喋らされた"
 date: 2014-06-23T09:40:00+09:00
 comments: true
-categories: ["devlove","楽しい"]
+tags: ["devlove","楽しい"]
 ---
 
 いや、別に無理矢理だったとかわけではなく。

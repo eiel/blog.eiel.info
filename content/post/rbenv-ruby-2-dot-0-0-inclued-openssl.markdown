@@ -3,7 +3,7 @@
 title: "Mac で rbenv 使って ruby-2.0.0-preview1 インストールすると OpenSSLがうごかないのでなんとかしてみた"
 date: 2012-11-25T12:08:00+09:00
 comments: true
-categories: ["rbenv","ruby"]
+tags: ["rbenv","ruby"]
 ---
 
 [以前書いたruby-2.0.0をビルドしてみた on Rbenv](blog/2012/11/07/ruby2/)の方法で build できるのですが Mac OSX でやると OpenSSLのバージョンが古いようで、 `bundle install` などが失敗してしまいます。
