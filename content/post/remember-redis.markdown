@@ -31,18 +31,41 @@ $ redis-cli keys "*"
 
 ここで紹介するコマンドの一覧
 
-コマンド | 説明
--- | ---
-keys * | redisに登録されているキーの一覧を取得する key のパターンを指定する
-type [key] | value の種類を返す。
-get [key] | type が string だった場合の値をみる方法
-lrange [key] 0 -1 | type が list だった場合の値をみる方法
-smembers [key] | type が set だった場合の値をみる方法
-zrange [key] 0 -1 | type が zsetだった場合の値をみる方法
-hgetall [key] | type が hash だった場合の値をみる方法
-hkeys [key] | type が hash だった場合に field の一覧をみる方法
-hvals [key] | type が hash だった場合に value の一覧をみる方法
-monitor | redisサーバが受けとったコマンドを表示する
+<table>
+<tr>
+<th>コマンド</th><th>説明</th>
+</tr>
+<tr>
+<td>keys *</td><td>redisに登録されているキーの一覧を取得する key のパターンを指定する</td>
+</tr>
+<tr>
+<td>type [key]</td><td>value の種類を返す。</td>
+</tr>
+<tr>
+<td>get [key]</td><td>type が string だった場合の値をみる方法</td>
+</tr>
+<tr>
+<td>lrange [key] 0 -1</td><td>type が list だった場合の値をみる方法</td>
+</tr>
+<tr>
+<td>smembers [key]</td><td>type が set だった場合の値をみる方法</td>
+</tr>
+<tr>
+<td>zrange [key] 0 -1</td><td>type が zsetだった場合の値をみる方法</td>
+</tr>
+<tr>
+<td>hgetall [key]</td><td>type が hash だった場合の値をみる方法</td>
+</tr>
+<tr>
+<td>hkeys [key]</td><td>type が hash だった場合に field の一覧をみる方法</td>
+</tr>
+<tr>
+<td>hvals [key]</td><td>type が hash だった場合に value の一覧をみる方法</td>
+</tr>
+<tr>
+<td>monitor</td><td>redisサーバが受けとったコマンドを表示する</td>
+</tr>
+</table>
 
 
 設定したりもっと細かい作業をしたい場合は help コマンドを使う。
