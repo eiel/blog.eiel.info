@@ -15,3 +15,7 @@ div .hatena-bookmark-widget {
     margin: 5%;
     display: inline-block;
 }
+
+.post-single {
+    margin-top: 60px;
+}

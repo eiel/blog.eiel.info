@@ -8,7 +8,6 @@
                 {{ $baseurl := .Site.BaseUrl }}
                 {{ range $name, $value := .Site.Taxonomies.tags }}
                 <li>
-                  aa
                     <!--a href="{{ $baseurl }}/tags/{{ $name | urlize }}" style="font-size: {{ add 8 (mul 3 $value.Count) }}px;"-->
                     <a href="{{ $baseurl }}/tags/{{ $name | urlize }}">
                         {{ $name }}
