@@ -41,8 +41,6 @@ title: 記事のタイトルを大切にするように内容も大切にして�
 
 もっと読者のことを考えて文章を書けるようになりたい。
 
-<iframe src="http://rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=eiel-22&o=9&p=8&l=as4&m=amazon&f=ifr&ref=ss_til&asins=448009525X" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
-
 ### 関連記事
 
 * [「数学文章作法 基礎編」 が心に残り過ぎて、しばらく持ち歩きたい。](http://blog.eiel.info/blog/2013/04/16/writing-math-text-basic/)
