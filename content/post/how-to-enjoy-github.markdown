@@ -175,6 +175,7 @@ Github は日々進化していて、いろいろ面白い機能やら、便利�
 ITの世界に生きるのであれば、自己ブランディングするには現状では最強のサービスではないでしょうか。
 自分なりの楽しみ方を見つけましょー。
 
+<iframe src="http://rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=eiel-22&o=9&p=8&l=as4&m=amazon&f=ifr&ref=ss_til&asins=477416366X" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
 
 ### 関連記事
 

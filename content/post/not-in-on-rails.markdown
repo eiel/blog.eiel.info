@@ -116,3 +116,5 @@ squeel も良いです.
 Rails3 からの `ActiveRecord::Relation` になれると元の世界に帰れる気がしません。
 
 この記事のタイトルに悩んだけど、「書きはじめた理由でいいや」と、結局考えるのを放棄した。
+
+<iframe src="http://rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=eiel-22&o=9&p=8&l=as4&m=amazon&f=ifr&ref=ss_til&asins=B00P0UR1RU" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
