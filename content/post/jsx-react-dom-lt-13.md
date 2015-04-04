@@ -19,4 +19,4 @@ JSXのないReactはDOM地道にJavaScriptで構築するわけだけど、こ�
 
 ### 関連
 
-* [リーントーク駆動開発 - LT駆動開発13](http://localhost:1313/blog/2015/04/04/lean-talk-driven-development-lt13/)
+* [リーントーク駆動開発 - LT駆動開発13](/blog/2015/04/04/lean-talk-driven-development-lt13/)
