@@ -54,7 +54,8 @@ Map(("hoge", 1))
 // scala.collection.immutable.Map[String,Int] = Map(hoge -> 1)
 ```
 
-タップルをつかってつくるには括弧がふたついるようだ。なぜなのかよくわからない。
+タプルをつかってつくるには括弧がふたついるようだ。なぜなのかよくわからない。
+たぶん、`"hoge" -> 1`と`("hoge", 1)`が等価だからだろう。
 
 とりあえず、`(+) :: Map[String,Int] -> (String,Int) -> Map[String,Int]` みたいな感じのようだ。
 
