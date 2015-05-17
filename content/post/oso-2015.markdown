@@ -27,10 +27,13 @@ tags: ["オープンセミナー","スライド"]
 
 そうか、モナドか。(ゼノブレイド的な意味で)
 
-なんかセッションがお互いに相補していた気がしていて、とても良い一日だった。。
+利用したラーメン画像は我馬という[ラーメン屋](http://www.gaba-2000.com/)のものです。
+
+なんかセッションがお互いに相補していた気がしていて、とても良い一日だった。
 
 ### 関連
 
+* [当日のツイートまとめ](http://togetter.com/li/821858)
 * [モナド則だけ見つめていたい - LT駆動開発14](http://blog.eiel.info/blog/2015/05/02/want-staring-monad-only-ltdd-14/)
 * [Newニンテンドー3DS専用 Xenoblade ゼノブレイド](http://www.nintendo.co.jp/3ds/cafj/)
 * [Github Pages について整理しておきます](http://blog.eiel.info/blog/2013/02/17/github-pages/)
@@ -38,5 +41,7 @@ tags: ["オープンセミナー","スライド"]
 * [かずー氏さん](https://twitter.com/kazoo04/)
 * [ぐらばくさん](https://twitter.com/Grabacr07)
 * [⑨④①さん](https://twitter.com/941)
+  * [岡山のオープンセミナーで「行ってきたの裏側」を話してきた #oso2015 - 941::blog](http://blog.kushii.net/archives/1965162.html)
 * [狩猟女子](http://hunter-girl.jp/)
+  * [わたしのつくりかた](http://t.co/oZKbwZeoW5)
 * [オピヨさん](https://twitter.com/opiyo_taku)
