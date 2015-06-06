@@ -1,6 +1,6 @@
 ---
 date: 2015-06-06T13:00:00+09:00
-title: Scalaをはじめる α & β - #LT駆動 15
+title: "Scalaをはじめる α & β - #LT駆動 15"
 tags: ["scala","LT駆動"]
 ---
 
