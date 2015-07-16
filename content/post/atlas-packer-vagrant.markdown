@@ -1,7 +1,6 @@
 ---
 date: 2015-07-16T23:14:57+09:00
-draft: true
-title: AtlasでPackerが実行できるようになってて感動した
+title: "AtlasでPackerが実行できるようになってて感動した"
 tags: ["packer","vagrant","すごい広島"]
 ---
 

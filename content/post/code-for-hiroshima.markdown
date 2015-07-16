@@ -1,6 +1,7 @@
 ---
 date: 2015-07-01T23:23:35+09:00
 title: プログラマは地域のヒーローになれるんだろうか - Code for Japan Brigadeに関わることについて少し考えた
+tags: ["地域"]
 ---
 
 [Code for Hiroshima](https://www.facebook.com/CodeForHiroshima)というコミュニティができたらしい。

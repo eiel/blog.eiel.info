@@ -1,6 +1,7 @@
 ---
 date: 2015-07-05T00:27:31+09:00
 title: "「Material Designなサイトをつくってみる」という話をした - #LT駆動 16"
+tags: ["materialdesign","polymer"]
 ---
 
 [LT駆動開発16](https://github.com/LTDD/Sessions/wiki/LT%E9%A7%86%E5%8B%95%E9%96%8B%E7%99%BA16)で「Material Designなサイトをつくってみる」をというLTをした。
