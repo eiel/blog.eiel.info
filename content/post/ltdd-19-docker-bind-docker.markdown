@@ -44,7 +44,8 @@ $ docker run docker bin/sh -c "docker run docker ls"
 あと一番大事なことだけど、Docker Hostが動いているコンピュータ上のdockerコマンドは`/var/run/docker.sock`をつかって通信しているようなので、`-v /var/run/docker.sock:/var/run/docker.sock`を共有してやると、コンテナ内からHostと簡単に通信できる。
 これって安全なのかはよくしらない。
 
-Dockerの中でDockerを起動すると Docker Docker A になりそうだけど、Docker A になるので、 「Docker >>= Docker」というタイトルにしてみました。
+Dockerの中でDockerを起動すると Docker Docker A になりそうだけど、Docker A になるので、 「Docker >>= Docker」というタイトルにしてみました。いま気づいたけど、型が不一致である。「Docker >>= \_ -> Docker」 とすべきだったのでは…。
+もうそれなら「Docker >> Docker」じゃん…。
 
 スライドは即興でつくったので雑です。
 
