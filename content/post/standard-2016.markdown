@@ -1,6 +1,5 @@
 ---
 date: 2015-12-01T00:00:00+09:00
-draft: true
 title: 普通の右上をゆこう - ふつうの広島 Advent Calendar 2015
 ---
 
