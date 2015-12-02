@@ -77,4 +77,4 @@ title: 普通の右上をゆこう - ふつうの広島 Advent Calendar 2015
 そんな「ふつう」をめざすときに、毎日が楽しくなるようにアレンジすると毎日が楽しくなります。
 楽しく続けることができれば「ふつう」がやがて誰かの「すごい」になると思います。
 
-ふつうの広島AdventCalendar1日目でした。明日は[tsuchim](http://twitter.com/tsuchim/)さんです。
+ふつうの広島AdventCalendar1日目でした。明日は[tsuchim](http://twitter.com/tsuchim/)さんの[ふつうの人生をおくりたい](http://eikai.co.jp/2015/12/681/)です。
