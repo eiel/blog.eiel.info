@@ -8,8 +8,9 @@ build:
         code: cp public/index.xml public/atom.xml
 deploy:
   steps:
-    - install-packages:
-        packages: git ssh-client liberror-perl perl
+    - script:
+      name: install-packages
+      code: sudo apt-get update && sudo apt-get install git ssh-client -y
     - lukevivier/gh-pages@0.2.1:
         token: $GIT_TOKEN
         domain: blog.eiel.info
