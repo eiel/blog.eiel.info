@@ -1,6 +1,6 @@
 ---
 date: 2016-02-21T21:32:40+09:00
-title: "プログラミングできなくても積極的にITと関わろう的な話をした - Code for DOGO 「CIVIC TECKって?」"
+title: "プログラミングできなくても積極的にITと関わろう的な話をした - Code for DOGO 「CIVIC TECHって?」"
 ---
 
 Code for DOGOが主催するイベントである「[CIVIC TECHって?](https://www.facebook.com/events/439183519625135/)」というイベントにお招き頂いた。
