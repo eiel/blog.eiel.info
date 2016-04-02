@@ -1,5 +1,5 @@
 ---
-date: 2016-01-1T10:00:00+09:00
+date: 2016-01-01T10:00:00+09:00
 title: "swiftで書いたProtocolをObj-Cで使うなら@objcをつけろ"
 tags: ["swift","objective-c"]
 ---
