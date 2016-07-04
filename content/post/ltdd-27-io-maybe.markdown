@@ -15,6 +15,7 @@ tags: ["LT駆動", "モナド変換子"]
 そっちはざっくりQiitaにアップしておいた。
 
 * [IO (Maybe String)を触ってみる - Qiita](http://qiita.com/eielh/items/2f0f774914431990ec37)
+* [サンプルコード](https://gist.github.com/eiel/836ceaad76c594f896a56e3b34c01cb3)
 
 個人的には先入観で誤解していた部分が整理できたので、満足している。
 特になにか図にしてみるという行為は面白いとおもっている。
