@@ -3,7 +3,7 @@ title: "FlowとTypeScriptを同時に使う話を大正GeekNight Vol.2でしま�
 date: 2018-06-13T22:18:48+09:00
 ---
 
-[大正GeekNight Vol.2](https://taisho-geek.connpass.com/event/89869/
+[大正GeekNight Vol.2](https://taisho-geek.connpass.com/event/89869/)
 で「静的型なきJS界を救う英雄たちの話」というタイトルでLTをしました。
 
 実は会場に行ってなくて、LTしてる動画を録画して送りつけるという参加方式をとりました。
