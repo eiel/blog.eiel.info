@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>そんなこと覚えてない </title>
+    <link>https://blog.eiel.info/tags/%E3%83%A2%E3%83%8A%E3%83%89%E5%A4%89%E6%8F%9B%E5%AD%90/</link>
+    <language>en-us</language>
+    <author>Tomohiko Himura</author>
+    <rights>(C) 2018</rights>
+    <updated>2016-07-03 21:42:43 &#43;0900 &#43;0900</updated>
+
+    
+      
+        <item>
+          <title>IO (Maybe a)というタイトルでモナド変換子について学んだことを話した - #LT駆動</title>
+          <link>https://blog.eiel.info/blog/2016/07/03/ltdd-27-io-maybe/</link>
+          <pubDate>Sun, 03 Jul 2016 21:42:43 &#43;0900</pubDate>
+          <author>Tomohiko Himura</author>
+          <guid>https://blog.eiel.info/blog/2016/07/03/ltdd-27-io-maybe/</guid>
+          <description>&lt;p&gt;&lt;a href=&#34;https://github.com/LTDD/Sessions/wiki/LT%E9%A7%86%E5%8B%95%E9%96%8B%E7%99%BA27&#34;&gt;LT駆動27&lt;/a&gt;に参加しました。&lt;/p&gt;
+
+&lt;p&gt;「IO (Maybe a)」という話をした。
+自分なりにモナド変換子について整理した。&lt;/p&gt;
+
+&lt;script async class=&#34;speakerdeck-embed&#34; data-id=&#34;b00867b044924e89afa6c98212ff56fd&#34; data-ratio=&#34;1.33333333333333&#34; src=&#34;//speakerdeck.com/assets/embed.js&#34;&gt;&lt;/script&gt;
+
+&lt;p&gt;一度文章にしてからスライドにした。
+そっちはざっくりQiitaにアップしておいた。&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://qiita.com/eielh/items/2f0f774914431990ec37&#34;&gt;IO (Maybe String)を触ってみる - Qiita&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://gist.github.com/eiel/836ceaad76c594f896a56e3b34c01cb3&#34;&gt;サンプルコード&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;個人的には先入観で誤解していた部分が整理できたので、満足している。
+特になにか図にしてみるという行為は面白いとおもっている。&lt;/p&gt;
+
+&lt;p&gt;勉強会で発表するという行為はとても勉強になる。(自戒)
+LT駆動開発は毎月開催されているので、みなさまの参加を楽しみにしています。&lt;/p&gt;
+</description>
+        </item>
+      
+    
+
+  </channel>
+</rss>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>そんなこと覚えてない </title>
+    <link>https://blog.eiel.info/tags/event/</link>
+    <language>en-us</language>
+    <author>Tomohiko Himura</author>
+    <rights>(C) 2018</rights>
+    <updated>2016-05-28 21:00:03 &#43;0900 &#43;0900</updated>
+
+    
+      
+        <item>
+          <title>Scala福岡2016に遊びにいって「Scalaで関数」というLTをした</title>
+          <link>https://blog.eiel.info/blog/2016/05/28/scala-fukuoka-2016/</link>
+          <pubDate>Sat, 28 May 2016 21:00:03 &#43;0900</pubDate>
+          <author>Tomohiko Himura</author>
+          <guid>https://blog.eiel.info/blog/2016/05/28/scala-fukuoka-2016/</guid>
+          <description>&lt;p&gt;&lt;a href=&#34;http://scala.connpass.com/event/26674/&#34;&gt;Scala福岡2016&lt;/a&gt;に遊びにいきました。
+会場は&lt;a href=&#34;https://nulab-inc.com/ja/&#34;&gt;nulab&lt;/a&gt;さんのオフィスで、&lt;a href=&#34;http://www.backlog.jp/&#34;&gt;Backlog&lt;/a&gt;や&lt;a href=&#34;https://cacoo.com/lang/ja/&#34;&gt;Caccoo&lt;/a&gt;というナイスなサービスを展開されています。
+広島にもWebサービスをやってるナイスな会社が増えて欲しいなとおもいました。&lt;/p&gt;
+
+&lt;p&gt;僕はScalaあまり詳しくない初心者なので、最新のネタがズバズバ跳んでるScala Matsuriとはちょっと違って、Scalaやってるなら知っていたほうがよい基礎っぽい話がたくさん聞けて、とてもよかったです。(もちろんScala Matsuriも楽しい)&lt;/p&gt;
+
+&lt;p&gt;せっかく広島からイベントに参加したので、ライトニングトークもしてきました。
+特にネタをもってなかったので、Scalaの気になっている部分の&lt;code&gt;tupled&lt;/code&gt;や&lt;code&gt;curried&lt;/code&gt;というメソッドについて整理したので、その発表をしました。&lt;/p&gt;
+
+&lt;p&gt;基本形の関数から、カリー化された関数、タプル化された関数の３種類があることがわかって、カリー化された関数をタプル化された関数に変換するには、一旦基本形にしないといけないことがわかりました。
+ショートカットするメソッドがどこかにあってもよさそうな気もしましたが、あったらあったでカオスになりそうな気もします。(&lt;a href=&#34;https://speakerdeck.com/eiel/scaladeguan-shu?slide=34&#34;&gt;スライドの34ページ目に記してます。&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p&gt;Haskellとの対応を考えると、Haskellには「カリー化された関数」と「タプル化された関数」しかないと考えることもできそうで、いろいろすっきりさせることができました。&lt;/p&gt;
+
+&lt;p&gt;県外のコミュニティのイベントにでかけると知らない人もたくさんいるし、新たな繋がりや新しい文化を仕入れることもできて、とても楽しいです。
+ぜひ広島のイベントにも遊びに来て、いろんな風を入れて欲しいと思いました。&lt;/p&gt;
+
+&lt;script async class=&#34;speakerdeck-embed&#34; data-id=&#34;2b91928943a243559c174e931464013a&#34; data-ratio=&#34;1.33333333333333&#34; src=&#34;//speakerdeck.com/assets/embed.js&#34;&gt;&lt;/script&gt;
+</description>
+        </item>
+      
+    
+
+  </channel>
+</rss>

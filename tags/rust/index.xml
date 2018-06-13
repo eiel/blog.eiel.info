@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>そんなこと覚えてない </title>
+    <link>https://blog.eiel.info/tags/rust/</link>
+    <language>en-us</language>
+    <author>Tomohiko Himura</author>
+    <rights>(C) 2018</rights>
+    <updated>2016-04-02 15:00:00 &#43;0900 &#43;0900</updated>
+
+    
+      
+        <item>
+          <title>bluemixで遊ぶならメモリの使用料が少ない言語つかいたいよね、という話をした - #LT駆動 24</title>
+          <link>https://blog.eiel.info/blog/2016/04/02/ltdd-24/</link>
+          <pubDate>Sat, 02 Apr 2016 15:00:00 &#43;0900</pubDate>
+          <author>Tomohiko Himura</author>
+          <guid>https://blog.eiel.info/blog/2016/04/02/ltdd-24/</guid>
+          <description>&lt;p&gt;&lt;a href=&#34;https://github.com/LTDD/Sessions/wiki/LT%E9%A7%86%E5%8B%95%E9%96%8B%E7%99%BA24&#34;&gt;LT駆動開発 24&lt;/a&gt;に参加しました。&lt;/p&gt;
+
+&lt;p&gt;bluemixはメモリ使用量で、課金されるので、メモリ消費の少ない言語が有利なんじゃないかと思いて、さまざまな言語で使用メモリを確認をした話をした。
+全部はみていないがbluemixで提供されているものでは、Goが良さそうである。
+GoならGAE/Goもあるし、Goは幅広くつかえますね。&lt;/p&gt;
+
+&lt;p&gt;個人的には、haskellやrustが気になるところである。リッチだし、特にRustはローカルで動作させてみたところ使用メモリがすくなかった。デプロイするには&lt;a href=&#34;https://github.com/cloudfoundry/binary-buildpack&#34;&gt;binary-buildpack&lt;/a&gt;を使うのが楽そうだけど動かすところまでやってない。
+普通にbuildpackをつかってやるとbuild時間がなかなかつらそうです。(heroku-buildpack-rustは見事に失敗してまった)&lt;/p&gt;
+
+&lt;p&gt;メモリ使用量のところを抜粋しときます。
+&lt;table&gt;
+&lt;tr&gt;
+&lt;td&gt;go&lt;/td&gt;&lt;td&gt;7MB&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;swift&lt;/td&gt;&lt;td&gt;14MB&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;python&lt;/td&gt;&lt;td&gt;40MB&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;php&lt;/td&gt;&lt;td&gt;57MB&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;nodejs&lt;/td&gt;&lt;td&gt;74MB&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;ruby&lt;/td&gt;&lt;td&gt;75MB&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;.net&lt;/td&gt;&lt;td&gt;152MB&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;java&lt;/td&gt;&lt;td&gt;177MB&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/table&gt;&lt;/p&gt;
+
+&lt;script async class=&#34;speakerdeck-embed&#34; data-id=&#34;24768e8433e14c479bd6f32a2999caa8&#34; data-ratio=&#34;1.33333333333333&#34; src=&#34;//speakerdeck.com/assets/embed.js&#34;&gt;&lt;/script&gt;
+</description>
+        </item>
+      
+    
+
+  </channel>
+</rss>

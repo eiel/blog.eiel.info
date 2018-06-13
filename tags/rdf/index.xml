@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>そんなこと覚えてない </title>
+    <link>https://blog.eiel.info/tags/rdf/</link>
+    <language>en-us</language>
+    <author>Tomohiko Himura</author>
+    <rights>(C) 2018</rights>
+    <updated>2016-03-05 13:26:16 &#43;0900 &#43;0900</updated>
+
+    
+      
+        <item>
+          <title>Hiroshima Ruby Conference 2016でしかもオープンデータデイなのでRDFの話をした</title>
+          <link>https://blog.eiel.info/blog/2016/03/05/hiroshima-ruby-conference-2016/</link>
+          <pubDate>Sat, 05 Mar 2016 13:26:16 &#43;0900</pubDate>
+          <author>Tomohiko Himura</author>
+          <guid>https://blog.eiel.info/blog/2016/03/05/hiroshima-ruby-conference-2016/</guid>
+          <description>&lt;p&gt;&lt;a href=&#34;http://hiroshimarb.github.io/&#34;&gt;Hiroshima.rb&lt;/a&gt;と&lt;a href=&#34;http://www.ruby.or.jp/ja/&#34;&gt;Ruby Association&lt;/a&gt;の共催で&lt;a href=&#34;http://hiroshima-ruby-conf.me/&#34;&gt;Hiroshima Ruby Conference&lt;/a&gt;が開催されました。&lt;/p&gt;
+
+&lt;p&gt;この日は&lt;a href=&#34;http://okfn.jp/2015/09/16/iodd2016-pre/&#34;&gt;インターナショナルオープンデータデイ&lt;/a&gt;でもありオープンデータに関する話をすることにした。&lt;/p&gt;
+
+&lt;p&gt;ということで、「Hiroshima.rbの情報をRDFでオープンでリンクなデータにしたんよ」という話をした。&lt;/p&gt;
+
+&lt;p&gt;プログラマとしての視点で、RDFについて知りたかったことはQiitaにまとめておきました。&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://qiita.com/eielh/items/deadb765ac994956f8a2&#34;&gt;RDFに関する雑な説明 - Qiita&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;つづいて、RubyでRDFを作る方法をQiitaにまとめておきました。&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://qiita.com/eielh/items/1ae9ef9ae822e4256d52#_reference-e5d1f38862d0df2ef167&#34;&gt;RubyでRDFを構築してみる - Qiita&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;そして、今回は&lt;a href=&#34;http://hiroshimarb.github.io/&#34;&gt;Hiroshima.rb&lt;/a&gt;のサイトにJSON-LDでエンコーディングして、埋め込みしました。
+scriptタグを利用して埋め込みをしています。(詳細はHTMLをみてください)
+schemaには &lt;a href=&#34;https://schema.org/&#34;&gt;https://schema.org/&lt;/a&gt; を利用してるのでGoogleが認識することができます。
+RDFのライブラリを使えばウェブページを読み込みして、データを取り出すことが単にできるとおもいます。&lt;/p&gt;
+
+&lt;p&gt;RDFにするとデータをつなぐことができて分散データベースをつくることができるというわけです。
+RDFはとても柔軟なフォーマットでRDFからいろんな形式をデータを生成できます。
+ただし、柔軟性をを得たトレードオフとして処理効率が犠牲になります。
+RDFのデータはクエリをつかって、表データのようにデータをとりだせるので、うまく使えばネットで情報を収集して、扱いやすい形式に落として別のシステムへ渡したりもできるとおもいます。&lt;/p&gt;
+
+&lt;p&gt;とまあ、今回はRDFについて調べて疑問点だったことを自分が知りたかったことベースにまとめたついでに実践してみたという話でした。
+具体例として参考になると幸いです。&lt;/p&gt;
+
+&lt;script async class=&#34;speakerdeck-embed&#34; data-id=&#34;8141be0553cb4fc8960e5e4a30967ce2&#34; data-ratio=&#34;1.33333333333333&#34; src=&#34;//speakerdeck.com/assets/embed.js&#34;&gt;&lt;/script&gt;
+</description>
+        </item>
+      
+    
+
+  </channel>
+</rss>

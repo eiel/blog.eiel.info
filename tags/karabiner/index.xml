@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>そんなこと覚えてない </title>
+    <link>https://blog.eiel.info/tags/karabiner/</link>
+    <language>en-us</language>
+    <author>Tomohiko Himura</author>
+    <rights>(C) 2018</rights>
+    <updated>2016-01-08 09:00:00 &#43;0900 &#43;0900</updated>
+
+    
+      
+        <item>
+          <title>アプリケーションの起動ショートカットにBetter Touch ToolからKarabinerで行うようにした</title>
+          <link>https://blog.eiel.info/blog/2016/01/08/krabiner-from-bttt/</link>
+          <pubDate>Fri, 08 Jan 2016 09:00:00 &#43;0900</pubDate>
+          <author>Tomohiko Himura</author>
+          <guid>https://blog.eiel.info/blog/2016/01/08/krabiner-from-bttt/</guid>
+          <description>
+
+&lt;p&gt;Better Touch Toolが有料化の運びになったため、会社PCでは申請しないと使えないだろうし、私にとってMUSTのアプリケーションではない。
+しかし、別のツールでもできる機能なのだけど、私にとってMUSTな機能として、ショートカットキーでアプリケーションを起動する機能がある。
+これまではQuickSilverやAlfledのpower packなどでやってきたことだ。&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;参考 &lt;a href=&#34;https://ideacloud.co.jp/dev/bettertouchtools_2.html&#34;&gt;Macアプリをショートカットキーに登録して、一発起動させるアプリ「BetterTouchTool」 | iDEA CLOUD/dev&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;今回、これを気に別の方法を模索した結果&lt;a href=&#34;https://pqrs.org/osx/karabiner/index.html.ja&#34;&gt;Karabiner&lt;/a&gt;で同様のことを行うことにした。&lt;/p&gt;
+
+&lt;h3 id=&#34;メリット:ff733072f6c57b97db8abdda5a7885a6&#34;&gt;メリット&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;右Cmdと左Cmdを区別したショートカット設定ができる&lt;/li&gt;
+&lt;li&gt;テキストベースでの設定&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;左CmdはOSXのショートカットキーは右Cmdは独自ショートカットとかにできて便利。
+テキストベースの設定なのでGit管理ができてよい。&lt;/p&gt;
+
+&lt;h3 id=&#34;デメリット:ff733072f6c57b97db8abdda5a7885a6&#34;&gt;デメリット&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;設定するのがめんどくさい&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;xmlを書くことになるのでやっぱり設定は格段にめんどくさい。&lt;/p&gt;
+
+&lt;h3 id=&#34;設定例:ff733072f6c57b97db8abdda5a7885a6&#34;&gt;設定例&lt;/h3&gt;
+
+&lt;p&gt;Cmd+eでemacsを起動する例&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-xml&#34;&gt;&amp;lt;?xml version=&amp;quot;1.0&amp;quot;?&amp;gt;
+&amp;lt;root&amp;gt;
+  &amp;lt;vkopenurldef&amp;gt;
+    &amp;lt;name&amp;gt;KeyCode::VK_OPEN_URL_APP_Emacs&amp;lt;/name&amp;gt;
+    &amp;lt;url type=&amp;quot;file&amp;quot;&amp;gt;/Applications/Emacs.app&amp;lt;/url&amp;gt;
+  &amp;lt;/vkopenurldef&amp;gt;
+
+  &amp;lt;item&amp;gt;
+    &amp;lt;name&amp;gt;Open Emacs&amp;lt;/name&amp;gt;
+    &amp;lt;identifier&amp;gt;private.command_e&amp;lt;/identifier&amp;gt;
+    &amp;lt;autogen&amp;gt;
+      __KeyToKey__
+      KeyCode::E, ModifierFlag::COMMAND_R,
+      KeyCode::VK_OPEN_URL_APP_Emacs,
+    &amp;lt;/autogen&amp;gt;
+  &amp;lt;/item&amp;gt;
+&amp;lt;/root&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;詳しくはKarabinerの&lt;a href=&#34;https://pqrs.org/osx/karabiner/xml.html.ja&#34;&gt;private.xml設定方法&lt;/a&gt;を。&lt;/p&gt;
+
+&lt;h3 id=&#34;関連:ff733072f6c57b97db8abdda5a7885a6&#34;&gt;関連&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/eiel/KarabinerConfig&#34;&gt;eiel/KarabinerConfig - GitHub&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        </item>
+      
+    
+
+  </channel>
+</rss>
